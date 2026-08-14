@@ -1,0 +1,3982 @@
+[
+  {
+    "date": "2026-05-06",
+    "score": 55,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-05-07",
+    "score": 55,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-05-08",
+    "score": 55,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-05-09",
+    "score": 55,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-05-11",
+    "score": 55,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-05-12",
+    "score": 56,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-05-13",
+    "score": 55,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-05-14",
+    "score": 55,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-05-15",
+    "score": 54,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-05-17",
+    "score": 54,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-05-18",
+    "score": 55,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-05-19",
+    "score": 55,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-05-20",
+    "score": 58,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-05-21",
+    "score": 57,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-05-22",
+    "score": 56,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-05-23",
+    "score": 56,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-05-24",
+    "score": 56,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-05-25",
+    "score": 56,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-05-26",
+    "score": 56,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-05-27",
+    "score": 56,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    }
+  },
+  {
+    "date": "2026-05-29",
+    "score": 50,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 74,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-05-29T00:09:52.924Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-05-30",
+    "score": 50,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 67,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-05-30T00:07:54.214Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-05-31",
+    "score": 50,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 67,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-05-30T23:58:53.960Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-01",
+    "score": 50,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 72,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-06-01T00:04:30.035Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-03",
+    "score": 50,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 66,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-06-02T00:12:09.636Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-04",
+    "score": 49,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 69,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-06-04T07:04:25.279Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-05",
+    "score": 49,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 69,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-06-05T00:05:01.910Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-06",
+    "score": 49,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 65,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-06-06T00:04:38.918Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-07",
+    "score": 49,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 65,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-06-07T00:02:24.469Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-08",
+    "score": 53,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 68,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-06-08T00:04:47.111Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-09",
+    "score": 51,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 69,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-06-09T00:03:53.232Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-10",
+    "score": 50,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 66,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-06-10T00:10:46.731Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-12",
+    "score": 49,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 70,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-06-12T08:00:26.120Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-13",
+    "score": 49,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 67,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-06-13T00:18:30.199Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-14",
+    "score": 49,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 67,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-06-14T00:04:32.477Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-15",
+    "score": 49,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 67,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-06-15T00:06:21.149Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-16",
+    "score": 44,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 66,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-06-16T00:28:21.402Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-17",
+    "score": 44,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 66,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-06-17T11:32:22.731Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-19",
+    "score": 38,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 61,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-06-19T00:24:55.004Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-20",
+    "score": 38,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 63,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-06-20T00:07:46.575Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-21",
+    "score": 38,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 63,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-06-21T00:03:57.593Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-22",
+    "score": 37,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 63,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-06-22T00:09:53.935Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-23",
+    "score": 33,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 61,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-06-23T00:03:20.473Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-24",
+    "score": 34,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 60,
+      "state": "bloc_fragmentation",
+      "labelZh": "阵营化与脱钩期",
+      "observedAt": "2026-06-23T23:54:32.244Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-25",
+    "score": 34,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 60,
+      "state": "bloc_fragmentation",
+      "labelZh": "阵营化与脱钩期",
+      "observedAt": "2026-06-25T00:09:48.605Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-26",
+    "score": 34,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 60,
+      "state": "bloc_fragmentation",
+      "labelZh": "阵营化与脱钩期",
+      "observedAt": "2026-06-26T06:16:27.027Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-27",
+    "score": 34,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 60,
+      "state": "bloc_fragmentation",
+      "labelZh": "阵营化与脱钩期",
+      "observedAt": "2026-06-27T00:04:36.983Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-28",
+    "score": 32,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 60,
+      "state": "bloc_fragmentation",
+      "labelZh": "阵营化与脱钩期",
+      "observedAt": "2026-06-27T23:59:51.787Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-29",
+    "score": 34,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 59,
+      "state": "bloc_fragmentation",
+      "labelZh": "阵营化与脱钩期",
+      "observedAt": "2026-06-29T00:06:25.967Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-06-30",
+    "score": 33,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 59,
+      "state": "bloc_fragmentation",
+      "labelZh": "阵营化与脱钩期",
+      "observedAt": "2026-06-30T00:01:55.813Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-01",
+    "score": 30,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 59,
+      "state": "bloc_fragmentation",
+      "labelZh": "阵营化与脱钩期",
+      "observedAt": "2026-07-01T00:04:02.982Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-02",
+    "score": 30,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 58,
+      "state": "bloc_fragmentation",
+      "labelZh": "阵营化与脱钩期",
+      "observedAt": "2026-07-02T00:04:38.550Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-03",
+    "score": 31,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 58,
+      "state": "bloc_fragmentation",
+      "labelZh": "阵营化与脱钩期",
+      "observedAt": "2026-07-03T00:12:57.200Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-04",
+    "score": 31,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 58,
+      "state": "bloc_fragmentation",
+      "labelZh": "阵营化与脱钩期",
+      "observedAt": "2026-07-04T00:02:38.223Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-05",
+    "score": 30,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 58,
+      "state": "bloc_fragmentation",
+      "labelZh": "阵营化与脱钩期",
+      "observedAt": "2026-07-04T23:59:32.778Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-06",
+    "score": 30,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 58,
+      "state": "bloc_fragmentation",
+      "labelZh": "阵营化与脱钩期",
+      "observedAt": "2026-07-06T00:03:33.789Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-07",
+    "score": 30,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 57,
+      "state": "bloc_fragmentation",
+      "labelZh": "阵营化与脱钩期",
+      "observedAt": "2026-07-07T00:05:55.272Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-08",
+    "score": 29,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 58,
+      "state": "bloc_fragmentation",
+      "labelZh": "阵营化与脱钩期",
+      "observedAt": "2026-07-07T23:56:01.498Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-09",
+    "score": 33,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 57,
+      "state": "bloc_fragmentation",
+      "labelZh": "阵营化与脱钩期",
+      "observedAt": "2026-07-09T00:07:09.817Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-10",
+    "score": 29,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 58,
+      "state": "bloc_fragmentation",
+      "labelZh": "阵营化与脱钩期",
+      "observedAt": "2026-07-10T00:02:09.594Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-11",
+    "score": 29,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 57,
+      "state": "bloc_fragmentation",
+      "labelZh": "阵营化与脱钩期",
+      "observedAt": "2026-07-10T23:55:32.894Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-12",
+    "score": 33,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 57,
+      "state": "bloc_fragmentation",
+      "labelZh": "阵营化与脱钩期",
+      "observedAt": "2026-07-11T23:52:25.070Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-13",
+    "score": 36,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 58,
+      "state": "bloc_fragmentation",
+      "labelZh": "阵营化与脱钩期",
+      "observedAt": "2026-07-12T23:51:43.891Z",
+      "confidence": 1,
+      "freshness": "partial"
+    }
+  },
+  {
+    "date": "2026-07-14",
+    "score": 33,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 60,
+      "state": "bloc_fragmentation",
+      "labelZh": "阵营化与脱钩期",
+      "observedAt": "2026-07-14T08:50:11.540Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-15",
+    "score": 41,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 58,
+      "state": "bloc_fragmentation",
+      "labelZh": "阵营化与脱钩期",
+      "observedAt": "2026-07-14T23:51:57.283Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-16",
+    "score": 40,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 62,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-07-15T23:56:52.070Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-17",
+    "score": 43,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 61,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-07-16T23:56:56.431Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-18",
+    "score": 41,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 62,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-07-17T23:50:13.815Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-19",
+    "score": 44,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 62,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-07-18T23:51:47.669Z",
+      "confidence": 1,
+      "freshness": "partial"
+    }
+  },
+  {
+    "date": "2026-07-20",
+    "score": 41,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 63,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-07-19T23:54:27.522Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-21",
+    "score": 42,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 63,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-07-20T23:54:45.420Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-22",
+    "score": 43,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 62,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-07-21T23:54:24.261Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-23",
+    "score": 43,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 65,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-07-23T06:54:24.330Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-24",
+    "score": 44,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 67,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-07-23T23:57:51.625Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-25",
+    "score": 44,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 65,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-07-25T00:02:09.661Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-26",
+    "score": 44,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 68,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-07-25T23:58:27.561Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-27",
+    "score": 41,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 65,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-07-27T01:01:54.785Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-30",
+    "score": 45,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 66,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-07-30T09:01:11.376Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-07-31",
+    "score": 43,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 69,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-07-30T23:59:18.052Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-08-01",
+    "score": 43,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 66,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-07-31T23:59:34.087Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-08-02",
+    "score": 43,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 66,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-08-01T23:54:44.992Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-08-03",
+    "score": 38,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 71,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-08-02T23:56:14.945Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-08-05",
+    "score": 43,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 63,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-08-04T23:59:42.119Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-08-07",
+    "score": 43,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 63,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-08-07T01:40:59.689Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "score": 43,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 65,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-08-07T23:31:06.347Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-08-09",
+    "score": 40,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 65,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-08-08T23:25:20.780Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-08-10",
+    "score": 38,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 64,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-08-09T23:28:07.567Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-08-11",
+    "score": 43,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 64,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-08-11T22:25:30.944Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-08-12",
+    "score": 45,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 65,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-08-11T23:36:24.588Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  },
+  {
+    "date": "2026-08-13",
+    "score": 44,
+    "transmissionSnapshot": {
+      "nodes": [
+        {
+          "key": "战争冲击",
+          "label": "战争冲击",
+          "score": 82
+        },
+        {
+          "key": "油价压力",
+          "label": "油价压力",
+          "score": 81
+        },
+        {
+          "key": "通胀传导",
+          "label": "通胀传导",
+          "score": 81
+        },
+        {
+          "key": "利率压力",
+          "label": "利率压力",
+          "score": 78
+        },
+        {
+          "key": "黄金影响",
+          "label": "黄金影响",
+          "score": 64
+        },
+        {
+          "key": "股票影响",
+          "label": "股票影响",
+          "score": 79
+        }
+      ]
+    },
+    "worldOrderStress": {
+      "score": 65,
+      "state": "multi_theater_stress",
+      "labelZh": "多战区压力期",
+      "observedAt": "2026-08-12T23:37:37.903Z",
+      "confidence": 1,
+      "freshness": "fresh"
+    }
+  }
+]

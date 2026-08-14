@@ -1,0 +1,188 @@
+{
+  "schemaVersion": "gdelt-bubble-watch-cache-p38",
+  "module": "gdelt-bubble-watch-cache",
+  "generatedAt": "2026-07-20T08:21:47.241Z",
+  "sourceKey": "gdelt_bubble_watch_ceo_hedging",
+  "cacheScope": "bubble_watch_ceo_hedging",
+  "status": "ok",
+  "sourceStatus": "live",
+  "requestMode": "live_weekly_query",
+  "source": "GDELT DOC public search",
+  "cachePolicy": {
+    "ttlHours": 132,
+    "staleMaxDays": 21,
+    "lowFrequencyCache": true,
+    "broadQueryLocalClassification": true
+  },
+  "query": {
+    "id": "gdelt_bubble_ceo_hedging",
+    "label": "GDELT Bubble Watch CEO hedging cache query",
+    "query": "(\"AI bubble\" OR \"artificial intelligence bubble\" OR \"AI overbuild\" OR \"AI capex bubble\")",
+    "mode": "ArtList",
+    "maxrecords": "20",
+    "timespan": "30d",
+    "sort": "HybridRel"
+  },
+  "requestDiagnostics": {
+    "provider": "gdelt",
+    "endpointType": "doc",
+    "label": "Bubble Watch CEO hedging GDELT DOC",
+    "status": 200,
+    "attempts": 2,
+    "retryCount": 1,
+    "rateLimited": true,
+    "timeout": false,
+    "retryAfterSeconds": null,
+    "timeoutMs": 15000,
+    "minIntervalMs": 8000,
+    "maxRetries": 1,
+    "retryAfterCapSeconds": 15,
+    "elapsedMs": 27807,
+    "errorCode": null
+  },
+  "aggregate": {
+    "articleCount": 20
+  },
+  "articles": [
+    {
+      "title": "Hong Kong must brace for AI bubble risk and quantum computer threat : HKMA chief",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3359457/hong-kong-must-brace-ai-bubble-risk-and-quantum-computer-threat-hkma-chief",
+      "domain": "scmp.com",
+      "seendate": "20260705T073000Z"
+    },
+    {
+      "title": "Michael Burry biggest moneymaker isnt a stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burrys-biggest-moneymaker-isnt-023300467.html",
+      "domain": "finance.yahoo.com",
+      "seendate": "20260715T031500Z"
+    },
+    {
+      "title": "OpenAI Bursting the Tech Bubble Could Be New Lehman Moment : Ed Zitron",
+      "url": "https://www.businessinsider.com/openai-ipo-ai-bubble-tech-capex-anthropic-ed-zitron-lehman-2026-7",
+      "domain": "businessinsider.com",
+      "seendate": "20260716T201500Z"
+    },
+    {
+      "title": "Swiss bank sounds warning over AI investing bubble",
+      "url": "https://www.swissinfo.ch/eng/swiss-ai/raiffeisens-chief-economist-warns-of-an-ai-bubble/91720157",
+      "domain": "swissinfo.ch",
+      "seendate": "20260709T080000Z"
+    },
+    {
+      "title": "New Book from The Oaklea Press Purports to Explain Why AI Will Not Live Up to Expectations",
+      "url": "https://www.pr.com:443/press-release/972847",
+      "domain": "pr.com",
+      "seendate": "20260706T141500Z"
+    },
+    {
+      "title": "OpenAI Collapse Is a Matter of When , Not If : Ed Zitron Warns the Stock Market Will Pay the Price",
+      "url": "https://www.ibtimes.co.uk/openai-collapse-lehman-brothers-ai-bubble-1809217",
+      "domain": "ibtimes.co.uk",
+      "seendate": "20260717T121500Z"
+    },
+    {
+      "title": "How to burst the AI bubble : Strike at its roots",
+      "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
+      "domain": "arstechnica.com",
+      "seendate": "20260623T134500Z"
+    },
+    {
+      "title": "Terrified Tech Execs Are Traveling With Armed Bodyguards as AI Backlash and AI Bubble Grows",
+      "url": "https://healthimpactnews.com/2026/terrified-tech-execs-are-traveling-with-armed-bodyguards-as-ai-backlash-and-ai-bubble-grows/",
+      "domain": "healthimpactnews.com",
+      "seendate": "20260717T000000Z"
+    },
+    {
+      "title": "Talk of a bubble is an insult to AI says SoftBank Son",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/talk-of-a-bubble-is-an-insult-to-ai-says-softbanks-son/articleshow/131957186.cms",
+      "domain": "economictimes.indiatimes.com",
+      "seendate": "20260624T071500Z"
+    },
+    {
+      "title": "Central bankers grow nervous about AI funding",
+      "url": "https://finance.yahoo.com/economy/policy/articles/central-bankers-grow-nervous-ai-040300181.html",
+      "domain": "finance.yahoo.com",
+      "seendate": "20260630T044500Z"
+    },
+    {
+      "title": "Is the AI Bubble Really About to Burst ? What the Dot - Com Crash Tells Us About Your Money in 2026 .",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-bubble-really-burst-dot-195604988.html",
+      "domain": "finance.yahoo.com",
+      "seendate": "20260709T064500Z"
+    },
+    {
+      "title": "BofA Desk Warns Nasdaq Crossing Bubble Threshold , Recommends Trade To Hedge Unwind",
+      "url": "https://www.zerohedge.com/markets/bofa-desk-warns-nasdaq-crossing-bubble-threshold-recommends-trade-hedge-unwind",
+      "domain": "zerohedge.com",
+      "seendate": "20260625T030000Z"
+    },
+    {
+      "title": "Was SK Hynix US Debut The AI Bubble Top ? BNP Says It Still 1998",
+      "url": "https://www.zerohedge.com/markets/was-sk-hynixs-us-debut-ai-bubble-top-bnp-says-its-still-1998",
+      "domain": "zerohedge.com",
+      "seendate": "20260711T164500Z"
+    },
+    {
+      "title": "In The AI Age , A Tech Rout Affects The U . S . Stock Market A Lot",
+      "url": "https://www.forbes.com/sites/johnwerner/2026/06/23/in-the-ai-age-a-tech-rout-affects-the-us-stock-market-a-lot/",
+      "domain": "forbes.com",
+      "seendate": "20260623T183000Z"
+    },
+    {
+      "title": "BofA Sees No Sign of a Major Peak in Risk Assets Despite Strong Investor Optimism",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-sees-no-sign-major-110000323.html",
+      "domain": "finance.yahoo.com",
+      "seendate": "20260621T121500Z"
+    },
+    {
+      "title": "Expect to pay more for the Samsung Galaxy Z Fold 8 and Flip 8",
+      "url": "https://www.androidpolice.com/samsungs-new-foldables-will-get-a-big-price-increase/",
+      "domain": "androidpolice.com",
+      "seendate": "20260706T113000Z"
+    },
+    {
+      "title": "Power infrastructure emerges as India biggest opportunity in AI : Shriram AMC",
+      "url": "https://www.moneycontrol.com/news/business/markets/power-infrastructure-emerges-as-india-s-biggest-opportunity-in-ai-shriram-amc-13972020.html",
+      "domain": "moneycontrol.com",
+      "seendate": "20260713T031500Z"
+    },
+    {
+      "title": "Is the AI Bubble About to Burst ?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-bubble-burst-190000071.html",
+      "domain": "finance.yahoo.com",
+      "seendate": "20260712T201500Z"
+    },
+    {
+      "title": "TSMC pledges another $100 billion for US chip expansion",
+      "url": "https://economictimes.indiatimes.com/news/international/business/tsmc-pledges-another-100-billion-for-us-chip-expansion/articleshow/132447657.cms",
+      "domain": "economictimes.indiatimes.com",
+      "seendate": "20260716T201500Z"
+    },
+    {
+      "title": "Tech stocks tank on Wall Street . Is the chip bubble finally popping ?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-tank-wall-street-141626682.html",
+      "domain": "finance.yahoo.com",
+      "seendate": "20260624T223000Z"
+    }
+  ],
+  "error": null,
+  "promotionEligible": false,
+  "productionDisplayApproved": false,
+  "productionImpact": {
+    "affectsValues": false,
+    "affectsScoring": false,
+    "affectsDecisionModel": false,
+    "affectsExecutionLock": false,
+    "affectsPositionGuidance": false,
+    "affectsBrentPromotion": false,
+    "affectsOdpFinalBias": false,
+    "affectsGlobalRiskHeatmap": false,
+    "affectsCrossValidation": false
+  },
+  "limitationsZh": [
+    "GDELT 是低频缓存型新闻代理源,不是高频实时新闻或事件确认源。",
+    "本 cache 只保存 compact 标题、URL、domain 与时间戳,不保存正文、snippet 或 raw response。",
+    "本 cache 不确认 AI 泡沫、CEO 集体承认过热、市场顶部或交易信号。"
+  ],
+  "boundary": "production read-only GDELT compact news cache for Bubble Watch ceo_hedging; display-only/audit-only cache; NOT in GFRR values, scoring, decision, execution, position, ODP finalBias, Brent promotion, Global Risk Heatmap, or cross-validation"
+}
