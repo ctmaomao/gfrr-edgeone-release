@@ -2,7 +2,7 @@
   "contractVersion": "bubble-watch-v2",
   "issue_number": 24,
   "as_of_date": "2026-09-14",
-  "generated_at": "2026-09-14T09:25:16.814Z",
+  "generated_at": "2026-09-14T10:50:46.668Z",
   "summary": {
     "total_indicators": 27,
     "red_count": 7,
@@ -273,7 +273,7 @@
           "category": "macro",
           "status": "red",
           "value_display": "年末路径隐含加息",
-          "note_summary": "Fed 政策路径显示:目标区间 3.50-3.75%(mid 3.625%);SEP 点阵图当前年 median 3.8%(2026-06-17);ZQZ26.CBT 年末 Fed funds futures 隐含 4.09%;有效联邦基金利率 3.63%(60 日漂移 +1bp)、CPI 同比 3.7%(2026-08-01 口径)→ 判定「年末路径隐含加息」,政策路径高于当前目标区间,对极度拉伸估值构成更直接压制"
+          "note_summary": "Fed 政策路径显示:目标区间 3.50-3.75%(mid 3.625%);SEP 点阵图当前年 median 3.8%(2026-06-17);ZQZ26.CBT 年末 Fed funds futures 隐含 4.08%;有效联邦基金利率 3.63%(60 日漂移 +1bp)、CPI 同比 3.7%(2026-08-01 口径)→ 判定「年末路径隐含加息」,政策路径高于当前目标区间,对极度拉伸估值构成更直接压制"
         }
       ],
       "sections": [
@@ -434,7 +434,7 @@
       "stale": false,
       "provenance": {
         "mode": "auto",
-        "fetchedAt": "2026-09-14T09:23:55.274Z",
+        "fetchedAt": "2026-09-14T10:49:23.103Z",
         "detail": {
           "cape": 41.09
         }
@@ -456,7 +456,7 @@
       "stale": false,
       "provenance": {
         "mode": "auto",
-        "fetchedAt": "2026-09-14T09:23:55.540Z",
+        "fetchedAt": "2026-09-14T10:49:23.345Z",
         "detail": {
           "top5": [
             {
@@ -500,7 +500,7 @@
       "stale": false,
       "provenance": {
         "mode": "auto",
-        "fetchedAt": "2026-09-14T09:23:55.718Z",
+        "fetchedAt": "2026-09-14T10:49:23.521Z",
         "detail": {
           "forwardPe": 18.12
         }
@@ -543,7 +543,7 @@
       "stale": false,
       "provenance": {
         "mode": "auto",
-        "fetchedAt": "2026-09-14T09:23:57.872Z",
+        "fetchedAt": "2026-09-14T10:49:25.793Z",
         "detail": {
           "yoyPct": 75.28908628483364,
           "source": "stockanalysis 季报镜像",
@@ -584,7 +584,7 @@
       "stale": false,
       "provenance": {
         "mode": "auto",
-        "fetchedAt": "2026-09-14T09:23:58.443Z",
+        "fetchedAt": "2026-09-14T10:49:26.376Z",
         "detail": {
           "ratioPct": 82.90698956810425,
           "prevRatioPct": 61.914963872271,
@@ -796,7 +796,7 @@
       "stale": false,
       "provenance": {
         "mode": "auto",
-        "fetchedAt": "2026-09-14T09:23:59.919Z",
+        "fetchedAt": "2026-09-14T10:49:27.774Z",
         "detail": {
           "commitmentsUsd": 125000000000,
           "ltmRevenue": 302969000000,
@@ -821,7 +821,7 @@
       "stale": false,
       "provenance": {
         "mode": "auto",
-        "fetchedAt": "2026-09-14T09:24:16.367Z",
+        "fetchedAt": "2026-09-14T10:49:44.112Z",
         "detail": {
           "source": "Yahoo Chart × Wikipedia constituents fallback",
           "observationDate": "2026-09-11",
@@ -848,7 +848,7 @@
       "stale": false,
       "provenance": {
         "mode": "auto",
-        "fetchedAt": "2026-09-14T09:24:16.553Z",
+        "fetchedAt": "2026-09-14T10:49:44.280Z",
         "detail": {
           "spyRet": 14.747917729454791,
           "rspRet": 11.026712381798195,
@@ -872,7 +872,7 @@
       "stale": false,
       "provenance": {
         "mode": "auto",
-        "fetchedAt": "2026-09-14T09:24:19.318Z",
+        "fetchedAt": "2026-09-14T10:49:47.175Z",
         "detail": {
           "buyUsd": 698699,
           "sellUsd": 2634406569.0389,
@@ -886,7 +886,7 @@
               "sellUsd": 1250615755.4595006,
               "filingCount": null,
               "transactionCount": 148,
-              "updatedAt": "2026-09-14T09:24:17.020Z",
+              "updatedAt": "2026-09-14T10:49:44.871Z",
               "coverageStart": "2025-12-11",
               "recordCount": 200,
               "recordLimitReached": true
@@ -899,7 +899,7 @@
               "sellUsd": 604303166.0550997,
               "filingCount": null,
               "transactionCount": 180,
-              "updatedAt": "2026-09-14T09:24:17.834Z",
+              "updatedAt": "2026-09-14T10:49:45.688Z",
               "coverageStart": "2025-11-20",
               "recordCount": 200,
               "recordLimitReached": true
@@ -912,7 +912,7 @@
               "sellUsd": 779487647.5242996,
               "filingCount": null,
               "transactionCount": 177,
-              "updatedAt": "2026-09-14T09:24:18.562Z",
+              "updatedAt": "2026-09-14T10:49:46.416Z",
               "coverageStart": "2025-12-17",
               "recordCount": 200,
               "recordLimitReached": true
@@ -993,7 +993,7 @@
       "stale": false,
       "provenance": {
         "mode": "auto",
-        "fetchedAt": "2026-09-14T09:24:20.405Z",
+        "fetchedAt": "2026-09-14T10:49:50.074Z",
         "detail": {
           "source": "Crunchbase News public article search",
           "crunchbaseSource": "Crunchbase News WordPress API",
@@ -1071,7 +1071,7 @@
       "stale": false,
       "provenance": {
         "mode": "auto",
-        "fetchedAt": "2026-09-14T09:24:20.856Z",
+        "fetchedAt": "2026-09-14T10:49:50.546Z",
         "detail": {
           "bps": 270,
           "date": "2026-09-10"
@@ -1094,7 +1094,7 @@
       "stale": false,
       "provenance": {
         "mode": "auto",
-        "fetchedAt": "2026-09-14T09:24:29.351Z",
+        "fetchedAt": "2026-09-14T10:49:57.831Z",
         "detail": {
           "source": "Wind MCP paid optional",
           "directDataCenterYieldAvailable": false,
@@ -1246,7 +1246,7 @@
       "stale": false,
       "provenance": {
         "mode": "auto",
-        "fetchedAt": "2026-09-14T09:24:33.246Z",
+        "fetchedAt": "2026-09-14T10:50:00.575Z",
         "detail": {
           "source": "Morgan Stanley public AI capex financing split",
           "url": "https://www.morganstanley.com/insights/articles/ai-market-trends-institute-2026",
@@ -1327,7 +1327,7 @@
       "stale": false,
       "provenance": {
         "mode": "auto",
-        "fetchedAt": "2026-09-14T09:24:37.595Z",
+        "fetchedAt": "2026-09-14T10:50:09.414Z",
         "detail": {
           "source": "OpenRouter /api/frontend/v1/rankings/market-share",
           "latestWeek": "2026-09-07",
@@ -1346,16 +1346,16 @@
             },
             {
               "date": "2026-09-07",
-              "totalTokens": 126762967325245
+              "totalTokens": 126762967641827
             }
           ],
-          "latest4wTokens": 448600672373794,
+          "latest4wTokens": 448600672690376,
           "prev4wTokens": 259217205260664,
           "droppedPartialWeek": {
             "date": "2026-09-14",
-            "totalTokens": 6456129306763
+            "totalTokens": 8301837967773
           },
-          "momPct": 73.05975964160616,
+          "momPct": 73.05975976373618,
           "prevMomPct": 24.12613763344026,
           "sourceCandidateStatus": "hybrid_live",
           "sourceCandidatePrimarySignal": "AI token usage growth",
@@ -1379,7 +1379,7 @@
       "stale": false,
       "provenance": {
         "mode": "auto",
-        "fetchedAt": "2026-09-14T09:24:37.772Z",
+        "fetchedAt": "2026-09-14T10:50:09.597Z",
         "detail": {
           "source": "OpenRouter v1 model-rankings-chart + frontend catalog models",
           "latestWeek": "2026-09-07",
@@ -1393,10 +1393,10 @@
           "pricedCoveragePct": 58.56555692292018,
           "droppedPartialWeek": {
             "date": "2026-09-14",
-            "totalTokens": 6710263371384,
-            "pricedTokens": 4764931506568,
-            "spendProxyUsd": 1725958.8764225792,
-            "othersTokens": 1945331864816,
+            "totalTokens": 7826279771661,
+            "pricedTokens": 5568630401632,
+            "spendProxyUsd": 2033610.3324575725,
+            "othersTokens": 2257649370029,
             "missingModels": []
           },
           "rows": [
@@ -1514,7 +1514,7 @@
       "stale": false,
       "provenance": {
         "mode": "auto",
-        "fetchedAt": "2026-09-14T09:24:40.891Z",
+        "fetchedAt": "2026-09-14T10:50:12.410Z",
         "detail": {
           "source": "Google Cloud ROI of AI public report",
           "url": "https://cloud.google.com/transform/roi-of-ai-how-agents-help-business",
@@ -1574,7 +1574,7 @@
       "stale": false,
       "provenance": {
         "mode": "auto",
-        "fetchedAt": "2026-09-14T09:24:43.123Z",
+        "fetchedAt": "2026-09-14T10:50:14.665Z",
         "detail": {
           "yoyPct": 152.30929678188318,
           "prevYoyPct": 144.56740442655936,
@@ -1659,7 +1659,7 @@
       "stale": false,
       "provenance": {
         "mode": "auto",
-        "fetchedAt": "2026-09-14T09:24:45.198Z",
+        "fetchedAt": "2026-09-14T10:50:15.322Z",
         "detail": {
           "source": "SEC RSS + DOJ News API official monitor",
           "checkedSources": 2,
@@ -1692,12 +1692,12 @@
       "source_name": "Fed 点阵图/期货/FRED",
       "status": "red",
       "value_display": "年末路径隐含加息",
-      "note": "Fed 政策路径显示:目标区间 3.50-3.75%(mid 3.625%);SEP 点阵图当前年 median 3.8%(2026-06-17);ZQZ26.CBT 年末 Fed funds futures 隐含 4.09%;有效联邦基金利率 3.63%(60 日漂移 +1bp)、CPI 同比 3.7%(2026-08-01 口径)→ 判定「年末路径隐含加息」,政策路径高于当前目标区间,对极度拉伸估值构成更直接压制。判级:加息=红 / 通胀压力=黄 / 降息=绿",
+      "note": "Fed 政策路径显示:目标区间 3.50-3.75%(mid 3.625%);SEP 点阵图当前年 median 3.8%(2026-06-17);ZQZ26.CBT 年末 Fed funds futures 隐含 4.08%;有效联邦基金利率 3.63%(60 日漂移 +1bp)、CPI 同比 3.7%(2026-08-01 口径)→ 判定「年末路径隐含加息」,政策路径高于当前目标区间,对极度拉伸估值构成更直接压制。判级:加息=红 / 通胀压力=黄 / 降息=绿",
       "as_of": "2026-09-14",
       "stale": false,
       "provenance": {
         "mode": "auto",
-        "fetchedAt": "2026-09-14T09:24:46.039Z",
+        "fetchedAt": "2026-09-14T10:50:16.992Z",
         "detail": {
           "policyPathEvidenceVersion": "fed_policy_path_v2",
           "dff": 3.63,
@@ -1715,12 +1715,12 @@
           },
           "yearEndFedFundsFuture": {
             "symbol": "ZQZ26.CBT",
-            "price": 95.91000366210938,
-            "impliedRate": 4.09,
+            "price": 95.91999816894531,
+            "impliedRate": 4.08,
             "updatedAt": "2026-09-14T04:00:00.000Z"
           },
           "sepGap": 0.175,
-          "yearEndGap": 0.465,
+          "yearEndGap": 0.455,
           "classificationReason": "policy_path_above_current_target",
           "sourceStatus": {
             "targetRange": "live",
@@ -1749,7 +1749,7 @@
       "stale": false,
       "provenance": {
         "mode": "auto",
-        "fetchedAt": "2026-09-14T09:24:46.476Z",
+        "fetchedAt": "2026-09-14T10:50:17.424Z",
         "detail": {
           "source": "StockAnalysis quarterly cash-flow + Yahoo Chart",
           "benchmarkWindows": {
@@ -1938,7 +1938,7 @@
       "stale": false,
       "provenance": {
         "mode": "auto",
-        "fetchedAt": "2026-09-14T09:25:15.966Z",
+        "fetchedAt": "2026-09-14T10:50:45.682Z",
         "detail": {
           "source": "Tavily Search API + Brave News Search API fallback",
           "sourceMode": "fallback",
@@ -1948,11 +1948,11 @@
           "timeRange": "month",
           "resultCount": 9,
           "articleCount": 8,
-          "executiveHitCount": 3,
+          "executiveHitCount": 4,
           "usage": {
             "credits": 1
           },
-          "requestId": "44c5ca78-f202-4085-a2ce-c218467d6d28",
+          "requestId": "a459ee32-00ba-485e-b809-486081b06de4",
           "topArticles": [
             {
               "title": "There isn't just one AI bubble, strategist says — there's a 'rolling sequence of bubbles' instead",
@@ -1969,28 +1969,28 @@
               "snippet": "The gap between valuation and profitability is striking. So is the gap between revenue and spending ambitions. OpenAI generated roughly $13 billion in revenue in 2025. Yet CEO Sam…"
             },
             {
-              "title": "The AI Bubble Is Entering Its Most Dangerous Phase As Spending Nears $1 Trillion (SP500) | Seeking Alpha",
+              "title": "The AI Bubble Is Entering Its Most Dangerous Phase As Spending Nears $1 Trillion (SP500)",
               "url": "https://seekingalpha.com/article/4941824-the-ai-bubble-is-entering-its-most-dangerous-phase-as-spending-nears-1-trillion",
-              "score": 0.35985944,
+              "score": 0.36480075,
               "published_date": "Mon, 31 Aug 2026 16:32:51 GMT",
               "snippet": "Home page Seeking Alpha - Power to Investors Search for Symbols, analysts, keywords # The AI Bubble Is Entering Its Most Dangerous Phase As Spending Nears $1 Trillion Aug 31, 2026…"
             },
             {
-              "title": "A 'shakeout' in early-stage AI may be coming as VCs gets pickier",
-              "url": "https://www.cnbc.com/2026/09/04/ai-bubble-valuations-venture-capital.html",
-              "score": 0.28141347,
-              "published_date": "Fri, 04 Sep 2026 00:34:52 GMT",
-              "snippet": "The AI boom continues to reshape markets. Investors have poured money into semiconductor companies beyond Nvidia, betting that the buildout of AI data centers will benefit a broad…"
+              "title": "Casino Capitalism: Inside the financial architecture powering the AI boom",
+              "url": "https://thesouthfirst.com/opinion/hold-casino-capitalism-inside-the-financial-architecture-powering-the-ai-boom",
+              "score": 0.306071,
+              "published_date": "Fri, 11 Sep 2026 08:35:36 GMT",
+              "snippet": "We will be facing the classic overbuild outcome, which will resemble telecom fibre in financial terms, but with a more visible physical and ecological footprint. Telecom overcapac…"
             },
             {
-              "title": "Why the AI investment cycle, which works today, may turn into a trap",
-              "url": "https://www.theglobeandmail.com/investing/investment-ideas/article-why-the-ai-investment-cycle-which-works-today-may-turn-into-a-trap",
-              "score": 0.26077566,
-              "published_date": "Thu, 27 Aug 2026 17:13:54 GMT",
-              "snippet": "## About us © Copyright 2026 The Globe and Mail Inc. All rights reserved. Andrew Saunders, President and CEO [...] George Athanassakos is a professor of finance and holds the Ben …"
+              "title": "A 'shakeout' in early-stage AI may be coming as VC money gets pickier on valuations",
+              "url": "https://www.cnbc.com/2026/09/04/ai-bubble-valuations-venture-capital.html",
+              "score": 0.303371,
+              "published_date": "Fri, 04 Sep 2026 00:34:52 GMT",
+              "snippet": "The AI boom continues to reshape markets. Investors have poured money into semiconductor companies beyond Nvidia, betting that the buildout of AI data centers will benefit a broad…"
             }
           ],
-          "sourceSummary": "Tavily Search API:部分(新闻8,高管3) / Brave News Search API:部分(新闻10,高管4)",
+          "sourceSummary": "Tavily Search API:部分(新闻8,高管4) / Brave News Search API:部分(新闻10,高管4)",
           "crossConfirmations": [
             {
               "source": "Brave News Search API",
@@ -2019,14 +2019,6 @@
                   "snippet": "Artificial intelligence models are expensive to develop. Will they ever be profitable?"
                 },
                 {
-                  "title": "Our Question About the AI Bubble Is Wrong, Goldman's Banking Boss Says - Business Insider",
-                  "url": "https://businessinsider.com/kim-posnett-goldman-sachs-ai-dealmaking-spacex-ipo-2026-9",
-                  "age": "3 days ago",
-                  "page_age": "2026-09-11T09:34:01",
-                  "source": "businessinsider.com",
-                  "snippet": "Kim Posnett, the co-head of investment banking at Goldman Sachs, said we're in an \"AI investment supercycle\" which will itself likely contain bubbles."
-                },
-                {
                   "title": "The AI bubble and warnings of doom | The Week",
                   "url": "https://theweek.com/business/the-ai-bubble-and-warnings-of-doom",
                   "age": "1 week ago",
@@ -2037,10 +2029,18 @@
                 {
                   "title": "The AI Bubble And The U.S. Economy",
                   "url": "https://www.forbes.com/sites/paulocarvao/2026/08/19/the-ai-bubble-and-the-us-economy/",
-                  "age": "4 weeks ago",
+                  "age": "1 month ago",
                   "page_age": "2026-08-19T22:20:46",
                   "source": "www.forbes.com",
                   "snippet": "Public pension AI exposure is rising as investment drives U.S. growth. Here is what investors must watch as valuations, infrastructure spending and financial risks climb."
+                },
+                {
+                  "title": "Our Question About the AI Bubble Is Wrong, Goldman's Banking Boss Says - Business Insider",
+                  "url": "https://businessinsider.com/kim-posnett-goldman-sachs-ai-dealmaking-spacex-ipo-2026-9",
+                  "age": "3 days ago",
+                  "page_age": "2026-09-11T09:34:01",
+                  "source": "businessinsider.com",
+                  "snippet": "Kim Posnett, the co-head of investment banking at Goldman Sachs, said we're in an \"AI investment supercycle\" which will itself likely contain bubbles."
                 }
               ]
             }
@@ -2072,14 +2072,6 @@
                 "snippet": "Artificial intelligence models are expensive to develop. Will they ever be profitable?"
               },
               {
-                "title": "Our Question About the AI Bubble Is Wrong, Goldman's Banking Boss Says - Business Insider",
-                "url": "https://businessinsider.com/kim-posnett-goldman-sachs-ai-dealmaking-spacex-ipo-2026-9",
-                "age": "3 days ago",
-                "page_age": "2026-09-11T09:34:01",
-                "source": "businessinsider.com",
-                "snippet": "Kim Posnett, the co-head of investment banking at Goldman Sachs, said we're in an \"AI investment supercycle\" which will itself likely contain bubbles."
-              },
-              {
                 "title": "The AI bubble and warnings of doom | The Week",
                 "url": "https://theweek.com/business/the-ai-bubble-and-warnings-of-doom",
                 "age": "1 week ago",
@@ -2090,10 +2082,18 @@
               {
                 "title": "The AI Bubble And The U.S. Economy",
                 "url": "https://www.forbes.com/sites/paulocarvao/2026/08/19/the-ai-bubble-and-the-us-economy/",
-                "age": "4 weeks ago",
+                "age": "1 month ago",
                 "page_age": "2026-08-19T22:20:46",
                 "source": "www.forbes.com",
                 "snippet": "Public pension AI exposure is rising as investment drives U.S. growth. Here is what investors must watch as valuations, infrastructure spending and financial risks climb."
+              },
+              {
+                "title": "Our Question About the AI Bubble Is Wrong, Goldman's Banking Boss Says - Business Insider",
+                "url": "https://businessinsider.com/kim-posnett-goldman-sachs-ai-dealmaking-spacex-ipo-2026-9",
+                "age": "3 days ago",
+                "page_age": "2026-09-11T09:34:01",
+                "source": "businessinsider.com",
+                "snippet": "Kim Posnett, the co-head of investment banking at Goldman Sachs, said we're in an \"AI investment supercycle\" which will itself likely contain bubbles."
               }
             ]
           },
@@ -2125,7 +2125,7 @@
     "contractVersion": "bubble-watch-market-technical-heat-v1",
     "boundary": "display-only audit panel; excluded from Bubble Watch core/shadow indicator scoring, verdict, decision, execution, and position logic",
     "as_of_date": "2026-09-11",
-    "generated_at": "2026-09-14T09:25:16.813Z",
+    "generated_at": "2026-09-14T10:50:46.668Z",
     "status": "yellow",
     "label": "升温观察",
     "heat_score": 40,
@@ -2481,7 +2481,7 @@
       "reachable": true,
       "upstreamAsOf": "2026-09-13",
       "upstreamIssue": 25,
-      "adopted": 24,
+      "adopted": 0,
       "sourceUrl": "https://raw.githubusercontent.com/crystal-xiaoxiao/ai-bubble-monitor/main/docs/data/latest.json",
       "sourceKind": "latest",
       "snapshotName": null,
@@ -2489,6 +2489,3172 @@
       "summaryAvailable": true,
       "summaryAdopted": false,
       "summaryUsage": "not_used_for_production_narrative"
+    }
+  },
+  "credit_spreads": {
+    "contractVersion": "bubble-credit-spreads-v1",
+    "boundary": "display_only_no_score_impact",
+    "checkedAt": "2026-09-14T10:45:48.937Z",
+    "windowDays": 366,
+    "series": {
+      "ccc": [
+        {
+          "date": "2025-09-15",
+          "bps": 794
+        },
+        {
+          "date": "2025-09-16",
+          "bps": 807
+        },
+        {
+          "date": "2025-09-17",
+          "bps": 808
+        },
+        {
+          "date": "2025-09-18",
+          "bps": 795
+        },
+        {
+          "date": "2025-09-19",
+          "bps": 797
+        },
+        {
+          "date": "2025-09-22",
+          "bps": 790
+        },
+        {
+          "date": "2025-09-23",
+          "bps": 793
+        },
+        {
+          "date": "2025-09-24",
+          "bps": 794
+        },
+        {
+          "date": "2025-09-25",
+          "bps": 803
+        },
+        {
+          "date": "2025-09-26",
+          "bps": 801
+        },
+        {
+          "date": "2025-09-29",
+          "bps": 798
+        },
+        {
+          "date": "2025-09-30",
+          "bps": 807
+        },
+        {
+          "date": "2025-10-01",
+          "bps": 810
+        },
+        {
+          "date": "2025-10-02",
+          "bps": 812
+        },
+        {
+          "date": "2025-10-03",
+          "bps": 811
+        },
+        {
+          "date": "2025-10-06",
+          "bps": 804
+        },
+        {
+          "date": "2025-10-07",
+          "bps": 812
+        },
+        {
+          "date": "2025-10-08",
+          "bps": 819
+        },
+        {
+          "date": "2025-10-09",
+          "bps": 838
+        },
+        {
+          "date": "2025-10-10",
+          "bps": 874
+        },
+        {
+          "date": "2025-10-13",
+          "bps": 874
+        },
+        {
+          "date": "2025-10-14",
+          "bps": 863
+        },
+        {
+          "date": "2025-10-15",
+          "bps": 847
+        },
+        {
+          "date": "2025-10-16",
+          "bps": 856
+        },
+        {
+          "date": "2025-10-17",
+          "bps": 857
+        },
+        {
+          "date": "2025-10-20",
+          "bps": 848
+        },
+        {
+          "date": "2025-10-21",
+          "bps": 847
+        },
+        {
+          "date": "2025-10-22",
+          "bps": 854
+        },
+        {
+          "date": "2025-10-23",
+          "bps": 853
+        },
+        {
+          "date": "2025-10-24",
+          "bps": 843
+        },
+        {
+          "date": "2025-10-27",
+          "bps": 827
+        },
+        {
+          "date": "2025-10-28",
+          "bps": 829
+        },
+        {
+          "date": "2025-10-29",
+          "bps": 822
+        },
+        {
+          "date": "2025-10-30",
+          "bps": 833
+        },
+        {
+          "date": "2025-10-31",
+          "bps": 865
+        },
+        {
+          "date": "2025-11-03",
+          "bps": 885
+        },
+        {
+          "date": "2025-11-04",
+          "bps": 897
+        },
+        {
+          "date": "2025-11-05",
+          "bps": 885
+        },
+        {
+          "date": "2025-11-06",
+          "bps": 890
+        },
+        {
+          "date": "2025-11-07",
+          "bps": 898
+        },
+        {
+          "date": "2025-11-10",
+          "bps": 888
+        },
+        {
+          "date": "2025-11-11",
+          "bps": 888
+        },
+        {
+          "date": "2025-11-12",
+          "bps": 895
+        },
+        {
+          "date": "2025-11-13",
+          "bps": 907
+        },
+        {
+          "date": "2025-11-14",
+          "bps": 902
+        },
+        {
+          "date": "2025-11-17",
+          "bps": 908
+        },
+        {
+          "date": "2025-11-18",
+          "bps": 922
+        },
+        {
+          "date": "2025-11-19",
+          "bps": 919
+        },
+        {
+          "date": "2025-11-20",
+          "bps": 920
+        },
+        {
+          "date": "2025-11-21",
+          "bps": 920
+        },
+        {
+          "date": "2025-11-24",
+          "bps": 919
+        },
+        {
+          "date": "2025-11-25",
+          "bps": 916
+        },
+        {
+          "date": "2025-11-26",
+          "bps": 914
+        },
+        {
+          "date": "2025-11-27",
+          "bps": 914
+        },
+        {
+          "date": "2025-11-28",
+          "bps": 917
+        },
+        {
+          "date": "2025-11-30",
+          "bps": 894
+        },
+        {
+          "date": "2025-12-01",
+          "bps": 897
+        },
+        {
+          "date": "2025-12-02",
+          "bps": 897
+        },
+        {
+          "date": "2025-12-03",
+          "bps": 879
+        },
+        {
+          "date": "2025-12-04",
+          "bps": 878
+        },
+        {
+          "date": "2025-12-05",
+          "bps": 868
+        },
+        {
+          "date": "2025-12-08",
+          "bps": 871
+        },
+        {
+          "date": "2025-12-09",
+          "bps": 876
+        },
+        {
+          "date": "2025-12-10",
+          "bps": 883
+        },
+        {
+          "date": "2025-12-11",
+          "bps": 877
+        },
+        {
+          "date": "2025-12-12",
+          "bps": 876
+        },
+        {
+          "date": "2025-12-15",
+          "bps": 879
+        },
+        {
+          "date": "2025-12-16",
+          "bps": 887
+        },
+        {
+          "date": "2025-12-17",
+          "bps": 892
+        },
+        {
+          "date": "2025-12-18",
+          "bps": 891
+        },
+        {
+          "date": "2025-12-19",
+          "bps": 884
+        },
+        {
+          "date": "2025-12-22",
+          "bps": 880
+        },
+        {
+          "date": "2025-12-23",
+          "bps": 873
+        },
+        {
+          "date": "2025-12-24",
+          "bps": 875
+        },
+        {
+          "date": "2025-12-26",
+          "bps": 880
+        },
+        {
+          "date": "2025-12-29",
+          "bps": 878
+        },
+        {
+          "date": "2025-12-30",
+          "bps": 873
+        },
+        {
+          "date": "2025-12-31",
+          "bps": 885
+        },
+        {
+          "date": "2026-01-02",
+          "bps": 888
+        },
+        {
+          "date": "2026-01-05",
+          "bps": 883
+        },
+        {
+          "date": "2026-01-06",
+          "bps": 874
+        },
+        {
+          "date": "2026-01-07",
+          "bps": 870
+        },
+        {
+          "date": "2026-01-08",
+          "bps": 868
+        },
+        {
+          "date": "2026-01-09",
+          "bps": 865
+        },
+        {
+          "date": "2026-01-12",
+          "bps": 864
+        },
+        {
+          "date": "2026-01-13",
+          "bps": 864
+        },
+        {
+          "date": "2026-01-14",
+          "bps": 863
+        },
+        {
+          "date": "2026-01-15",
+          "bps": 856
+        },
+        {
+          "date": "2026-01-16",
+          "bps": 852
+        },
+        {
+          "date": "2026-01-19",
+          "bps": 851
+        },
+        {
+          "date": "2026-01-20",
+          "bps": 864
+        },
+        {
+          "date": "2026-01-21",
+          "bps": 855
+        },
+        {
+          "date": "2026-01-22",
+          "bps": 843
+        },
+        {
+          "date": "2026-01-23",
+          "bps": 849
+        },
+        {
+          "date": "2026-01-26",
+          "bps": 852
+        },
+        {
+          "date": "2026-01-27",
+          "bps": 846
+        },
+        {
+          "date": "2026-01-28",
+          "bps": 838
+        },
+        {
+          "date": "2026-01-29",
+          "bps": 854
+        },
+        {
+          "date": "2026-01-30",
+          "bps": 855
+        },
+        {
+          "date": "2026-01-31",
+          "bps": 874
+        },
+        {
+          "date": "2026-02-02",
+          "bps": 868
+        },
+        {
+          "date": "2026-02-03",
+          "bps": 874
+        },
+        {
+          "date": "2026-02-04",
+          "bps": 880
+        },
+        {
+          "date": "2026-02-05",
+          "bps": 900
+        },
+        {
+          "date": "2026-02-06",
+          "bps": 892
+        },
+        {
+          "date": "2026-02-09",
+          "bps": 887
+        },
+        {
+          "date": "2026-02-10",
+          "bps": 892
+        },
+        {
+          "date": "2026-02-11",
+          "bps": 885
+        },
+        {
+          "date": "2026-02-12",
+          "bps": 897
+        },
+        {
+          "date": "2026-02-13",
+          "bps": 906
+        },
+        {
+          "date": "2026-02-16",
+          "bps": 896
+        },
+        {
+          "date": "2026-02-17",
+          "bps": 900
+        },
+        {
+          "date": "2026-02-18",
+          "bps": 887
+        },
+        {
+          "date": "2026-02-19",
+          "bps": 888
+        },
+        {
+          "date": "2026-02-20",
+          "bps": 887
+        },
+        {
+          "date": "2026-02-23",
+          "bps": 904
+        },
+        {
+          "date": "2026-02-24",
+          "bps": 915
+        },
+        {
+          "date": "2026-02-25",
+          "bps": 918
+        },
+        {
+          "date": "2026-02-26",
+          "bps": 927
+        },
+        {
+          "date": "2026-02-27",
+          "bps": 950
+        },
+        {
+          "date": "2026-02-28",
+          "bps": 952
+        },
+        {
+          "date": "2026-03-02",
+          "bps": 945
+        },
+        {
+          "date": "2026-03-03",
+          "bps": 957
+        },
+        {
+          "date": "2026-03-04",
+          "bps": 942
+        },
+        {
+          "date": "2026-03-05",
+          "bps": 944
+        },
+        {
+          "date": "2026-03-06",
+          "bps": 959
+        },
+        {
+          "date": "2026-03-09",
+          "bps": 969
+        },
+        {
+          "date": "2026-03-10",
+          "bps": 945
+        },
+        {
+          "date": "2026-03-11",
+          "bps": 945
+        },
+        {
+          "date": "2026-03-12",
+          "bps": 961
+        },
+        {
+          "date": "2026-03-13",
+          "bps": 978
+        },
+        {
+          "date": "2026-03-16",
+          "bps": 973
+        },
+        {
+          "date": "2026-03-17",
+          "bps": 963
+        },
+        {
+          "date": "2026-03-18",
+          "bps": 964
+        },
+        {
+          "date": "2026-03-19",
+          "bps": 976
+        },
+        {
+          "date": "2026-03-20",
+          "bps": 979
+        },
+        {
+          "date": "2026-03-23",
+          "bps": 975
+        },
+        {
+          "date": "2026-03-24",
+          "bps": 977
+        },
+        {
+          "date": "2026-03-25",
+          "bps": 974
+        },
+        {
+          "date": "2026-03-26",
+          "bps": 984
+        },
+        {
+          "date": "2026-03-27",
+          "bps": 1013
+        },
+        {
+          "date": "2026-03-30",
+          "bps": 1020
+        },
+        {
+          "date": "2026-03-31",
+          "bps": 994
+        },
+        {
+          "date": "2026-04-01",
+          "bps": 981
+        },
+        {
+          "date": "2026-04-02",
+          "bps": 988
+        },
+        {
+          "date": "2026-04-03",
+          "bps": 989
+        },
+        {
+          "date": "2026-04-06",
+          "bps": 976
+        },
+        {
+          "date": "2026-04-07",
+          "bps": 983
+        },
+        {
+          "date": "2026-04-08",
+          "bps": 953
+        },
+        {
+          "date": "2026-04-09",
+          "bps": 946
+        },
+        {
+          "date": "2026-04-10",
+          "bps": 954
+        },
+        {
+          "date": "2026-04-13",
+          "bps": 958
+        },
+        {
+          "date": "2026-04-14",
+          "bps": 931
+        },
+        {
+          "date": "2026-04-15",
+          "bps": 924
+        },
+        {
+          "date": "2026-04-16",
+          "bps": 921
+        },
+        {
+          "date": "2026-04-17",
+          "bps": 912
+        },
+        {
+          "date": "2026-04-20",
+          "bps": 915
+        },
+        {
+          "date": "2026-04-21",
+          "bps": 913
+        },
+        {
+          "date": "2026-04-22",
+          "bps": 913
+        },
+        {
+          "date": "2026-04-23",
+          "bps": 915
+        },
+        {
+          "date": "2026-04-24",
+          "bps": 918
+        },
+        {
+          "date": "2026-04-27",
+          "bps": 908
+        },
+        {
+          "date": "2026-04-28",
+          "bps": 911
+        },
+        {
+          "date": "2026-04-29",
+          "bps": 909
+        },
+        {
+          "date": "2026-04-30",
+          "bps": 909
+        },
+        {
+          "date": "2026-05-01",
+          "bps": 904
+        },
+        {
+          "date": "2026-05-04",
+          "bps": 910
+        },
+        {
+          "date": "2026-05-05",
+          "bps": 911
+        },
+        {
+          "date": "2026-05-06",
+          "bps": 907
+        },
+        {
+          "date": "2026-05-07",
+          "bps": 915
+        },
+        {
+          "date": "2026-05-08",
+          "bps": 920
+        },
+        {
+          "date": "2026-05-11",
+          "bps": 931
+        },
+        {
+          "date": "2026-05-12",
+          "bps": 937
+        },
+        {
+          "date": "2026-05-13",
+          "bps": 931
+        },
+        {
+          "date": "2026-05-14",
+          "bps": 922
+        },
+        {
+          "date": "2026-05-15",
+          "bps": 935
+        },
+        {
+          "date": "2026-05-18",
+          "bps": 942
+        },
+        {
+          "date": "2026-05-19",
+          "bps": 948
+        },
+        {
+          "date": "2026-05-20",
+          "bps": 940
+        },
+        {
+          "date": "2026-05-21",
+          "bps": 939
+        },
+        {
+          "date": "2026-05-22",
+          "bps": 939
+        },
+        {
+          "date": "2026-05-25",
+          "bps": 939
+        },
+        {
+          "date": "2026-05-26",
+          "bps": 935
+        },
+        {
+          "date": "2026-05-27",
+          "bps": 936
+        },
+        {
+          "date": "2026-05-28",
+          "bps": 935
+        },
+        {
+          "date": "2026-05-29",
+          "bps": 938
+        },
+        {
+          "date": "2026-05-31",
+          "bps": 941
+        },
+        {
+          "date": "2026-06-01",
+          "bps": 946
+        },
+        {
+          "date": "2026-06-02",
+          "bps": 944
+        },
+        {
+          "date": "2026-06-03",
+          "bps": 947
+        },
+        {
+          "date": "2026-06-04",
+          "bps": 946
+        },
+        {
+          "date": "2026-06-05",
+          "bps": 952
+        },
+        {
+          "date": "2026-06-08",
+          "bps": 949
+        },
+        {
+          "date": "2026-06-09",
+          "bps": 951
+        },
+        {
+          "date": "2026-06-10",
+          "bps": 957
+        },
+        {
+          "date": "2026-06-11",
+          "bps": 956
+        },
+        {
+          "date": "2026-06-12",
+          "bps": 948
+        },
+        {
+          "date": "2026-06-15",
+          "bps": 937
+        },
+        {
+          "date": "2026-06-16",
+          "bps": 944
+        },
+        {
+          "date": "2026-06-17",
+          "bps": 939
+        },
+        {
+          "date": "2026-06-18",
+          "bps": 946
+        },
+        {
+          "date": "2026-06-19",
+          "bps": 947
+        },
+        {
+          "date": "2026-06-22",
+          "bps": 947
+        },
+        {
+          "date": "2026-06-23",
+          "bps": 956
+        },
+        {
+          "date": "2026-06-24",
+          "bps": 964
+        },
+        {
+          "date": "2026-06-25",
+          "bps": 968
+        },
+        {
+          "date": "2026-06-26",
+          "bps": 973
+        },
+        {
+          "date": "2026-06-29",
+          "bps": 967
+        },
+        {
+          "date": "2026-06-30",
+          "bps": 970
+        },
+        {
+          "date": "2026-07-01",
+          "bps": 968
+        },
+        {
+          "date": "2026-07-02",
+          "bps": 971
+        },
+        {
+          "date": "2026-07-03",
+          "bps": 969
+        },
+        {
+          "date": "2026-07-06",
+          "bps": 967
+        },
+        {
+          "date": "2026-07-07",
+          "bps": 964
+        },
+        {
+          "date": "2026-07-08",
+          "bps": 975
+        },
+        {
+          "date": "2026-07-09",
+          "bps": 974
+        },
+        {
+          "date": "2026-07-10",
+          "bps": 970
+        },
+        {
+          "date": "2026-07-13",
+          "bps": 972
+        },
+        {
+          "date": "2026-07-14",
+          "bps": 973
+        },
+        {
+          "date": "2026-07-15",
+          "bps": 969
+        },
+        {
+          "date": "2026-07-16",
+          "bps": 970
+        },
+        {
+          "date": "2026-07-17",
+          "bps": 975
+        },
+        {
+          "date": "2026-07-20",
+          "bps": 977
+        },
+        {
+          "date": "2026-07-21",
+          "bps": 978
+        },
+        {
+          "date": "2026-07-22",
+          "bps": 981
+        },
+        {
+          "date": "2026-07-23",
+          "bps": 991
+        },
+        {
+          "date": "2026-07-24",
+          "bps": 996
+        },
+        {
+          "date": "2026-07-27",
+          "bps": 1001
+        },
+        {
+          "date": "2026-07-28",
+          "bps": 1005
+        },
+        {
+          "date": "2026-07-29",
+          "bps": 1013
+        },
+        {
+          "date": "2026-07-30",
+          "bps": 1006
+        },
+        {
+          "date": "2026-07-31",
+          "bps": 1034
+        },
+        {
+          "date": "2026-08-03",
+          "bps": 1028
+        },
+        {
+          "date": "2026-08-04",
+          "bps": 1019
+        },
+        {
+          "date": "2026-08-05",
+          "bps": 1023
+        },
+        {
+          "date": "2026-08-06",
+          "bps": 1017
+        },
+        {
+          "date": "2026-08-07",
+          "bps": 1013
+        },
+        {
+          "date": "2026-08-10",
+          "bps": 1014
+        },
+        {
+          "date": "2026-08-11",
+          "bps": 1023
+        },
+        {
+          "date": "2026-08-12",
+          "bps": 1020
+        },
+        {
+          "date": "2026-08-13",
+          "bps": 1024
+        },
+        {
+          "date": "2026-08-14",
+          "bps": 1012
+        },
+        {
+          "date": "2026-08-17",
+          "bps": 1018
+        },
+        {
+          "date": "2026-08-18",
+          "bps": 1027
+        },
+        {
+          "date": "2026-08-19",
+          "bps": 1030
+        },
+        {
+          "date": "2026-08-20",
+          "bps": 1035
+        },
+        {
+          "date": "2026-08-21",
+          "bps": 1037
+        },
+        {
+          "date": "2026-08-24",
+          "bps": 1036
+        },
+        {
+          "date": "2026-08-25",
+          "bps": 1039
+        },
+        {
+          "date": "2026-08-26",
+          "bps": 1031
+        },
+        {
+          "date": "2026-08-27",
+          "bps": 1031
+        },
+        {
+          "date": "2026-08-28",
+          "bps": 1026
+        },
+        {
+          "date": "2026-08-31",
+          "bps": 1042
+        },
+        {
+          "date": "2026-09-01",
+          "bps": 1049
+        },
+        {
+          "date": "2026-09-02",
+          "bps": 1053
+        },
+        {
+          "date": "2026-09-03",
+          "bps": 1051
+        },
+        {
+          "date": "2026-09-04",
+          "bps": 1054
+        },
+        {
+          "date": "2026-09-07",
+          "bps": 1055
+        },
+        {
+          "date": "2026-09-08",
+          "bps": 1056
+        },
+        {
+          "date": "2026-09-09",
+          "bps": 1064
+        },
+        {
+          "date": "2026-09-10",
+          "bps": 1070
+        }
+      ],
+      "ig": [
+        {
+          "date": "2025-09-15",
+          "bps": 75
+        },
+        {
+          "date": "2025-09-16",
+          "bps": 76
+        },
+        {
+          "date": "2025-09-17",
+          "bps": 76
+        },
+        {
+          "date": "2025-09-18",
+          "bps": 75
+        },
+        {
+          "date": "2025-09-19",
+          "bps": 74
+        },
+        {
+          "date": "2025-09-22",
+          "bps": 74
+        },
+        {
+          "date": "2025-09-23",
+          "bps": 75
+        },
+        {
+          "date": "2025-09-24",
+          "bps": 75
+        },
+        {
+          "date": "2025-09-25",
+          "bps": 76
+        },
+        {
+          "date": "2025-09-26",
+          "bps": 75
+        },
+        {
+          "date": "2025-09-29",
+          "bps": 75
+        },
+        {
+          "date": "2025-09-30",
+          "bps": 76
+        },
+        {
+          "date": "2025-10-01",
+          "bps": 76
+        },
+        {
+          "date": "2025-10-02",
+          "bps": 75
+        },
+        {
+          "date": "2025-10-03",
+          "bps": 75
+        },
+        {
+          "date": "2025-10-06",
+          "bps": 74
+        },
+        {
+          "date": "2025-10-07",
+          "bps": 75
+        },
+        {
+          "date": "2025-10-08",
+          "bps": 75
+        },
+        {
+          "date": "2025-10-09",
+          "bps": 77
+        },
+        {
+          "date": "2025-10-10",
+          "bps": 81
+        },
+        {
+          "date": "2025-10-13",
+          "bps": 81
+        },
+        {
+          "date": "2025-10-14",
+          "bps": 81
+        },
+        {
+          "date": "2025-10-15",
+          "bps": 78
+        },
+        {
+          "date": "2025-10-16",
+          "bps": 80
+        },
+        {
+          "date": "2025-10-17",
+          "bps": 80
+        },
+        {
+          "date": "2025-10-20",
+          "bps": 79
+        },
+        {
+          "date": "2025-10-21",
+          "bps": 79
+        },
+        {
+          "date": "2025-10-22",
+          "bps": 80
+        },
+        {
+          "date": "2025-10-23",
+          "bps": 78
+        },
+        {
+          "date": "2025-10-24",
+          "bps": 77
+        },
+        {
+          "date": "2025-10-27",
+          "bps": 76
+        },
+        {
+          "date": "2025-10-28",
+          "bps": 76
+        },
+        {
+          "date": "2025-10-29",
+          "bps": 75
+        },
+        {
+          "date": "2025-10-30",
+          "bps": 77
+        },
+        {
+          "date": "2025-10-31",
+          "bps": 80
+        },
+        {
+          "date": "2025-11-03",
+          "bps": 83
+        },
+        {
+          "date": "2025-11-04",
+          "bps": 83
+        },
+        {
+          "date": "2025-11-05",
+          "bps": 81
+        },
+        {
+          "date": "2025-11-06",
+          "bps": 82
+        },
+        {
+          "date": "2025-11-07",
+          "bps": 84
+        },
+        {
+          "date": "2025-11-10",
+          "bps": 82
+        },
+        {
+          "date": "2025-11-11",
+          "bps": 82
+        },
+        {
+          "date": "2025-11-12",
+          "bps": 83
+        },
+        {
+          "date": "2025-11-13",
+          "bps": 84
+        },
+        {
+          "date": "2025-11-14",
+          "bps": 83
+        },
+        {
+          "date": "2025-11-17",
+          "bps": 84
+        },
+        {
+          "date": "2025-11-18",
+          "bps": 85
+        },
+        {
+          "date": "2025-11-19",
+          "bps": 84
+        },
+        {
+          "date": "2025-11-20",
+          "bps": 85
+        },
+        {
+          "date": "2025-11-21",
+          "bps": 86
+        },
+        {
+          "date": "2025-11-24",
+          "bps": 85
+        },
+        {
+          "date": "2025-11-25",
+          "bps": 84
+        },
+        {
+          "date": "2025-11-26",
+          "bps": 82
+        },
+        {
+          "date": "2025-11-27",
+          "bps": 82
+        },
+        {
+          "date": "2025-11-28",
+          "bps": 82
+        },
+        {
+          "date": "2025-11-30",
+          "bps": 82
+        },
+        {
+          "date": "2025-12-01",
+          "bps": 82
+        },
+        {
+          "date": "2025-12-02",
+          "bps": 81
+        },
+        {
+          "date": "2025-12-03",
+          "bps": 81
+        },
+        {
+          "date": "2025-12-04",
+          "bps": 80
+        },
+        {
+          "date": "2025-12-05",
+          "bps": 79
+        },
+        {
+          "date": "2025-12-08",
+          "bps": 78
+        },
+        {
+          "date": "2025-12-09",
+          "bps": 79
+        },
+        {
+          "date": "2025-12-10",
+          "bps": 78
+        },
+        {
+          "date": "2025-12-11",
+          "bps": 78
+        },
+        {
+          "date": "2025-12-12",
+          "bps": 80
+        },
+        {
+          "date": "2025-12-15",
+          "bps": 80
+        },
+        {
+          "date": "2025-12-16",
+          "bps": 81
+        },
+        {
+          "date": "2025-12-17",
+          "bps": 81
+        },
+        {
+          "date": "2025-12-18",
+          "bps": 81
+        },
+        {
+          "date": "2025-12-19",
+          "bps": 80
+        },
+        {
+          "date": "2025-12-22",
+          "bps": 80
+        },
+        {
+          "date": "2025-12-23",
+          "bps": 79
+        },
+        {
+          "date": "2025-12-24",
+          "bps": 79
+        },
+        {
+          "date": "2025-12-26",
+          "bps": 79
+        },
+        {
+          "date": "2025-12-29",
+          "bps": 79
+        },
+        {
+          "date": "2025-12-30",
+          "bps": 79
+        },
+        {
+          "date": "2025-12-31",
+          "bps": 79
+        },
+        {
+          "date": "2026-01-02",
+          "bps": 79
+        },
+        {
+          "date": "2026-01-05",
+          "bps": 79
+        },
+        {
+          "date": "2026-01-06",
+          "bps": 79
+        },
+        {
+          "date": "2026-01-07",
+          "bps": 79
+        },
+        {
+          "date": "2026-01-08",
+          "bps": 79
+        },
+        {
+          "date": "2026-01-09",
+          "bps": 78
+        },
+        {
+          "date": "2026-01-12",
+          "bps": 78
+        },
+        {
+          "date": "2026-01-13",
+          "bps": 77
+        },
+        {
+          "date": "2026-01-14",
+          "bps": 77
+        },
+        {
+          "date": "2026-01-15",
+          "bps": 76
+        },
+        {
+          "date": "2026-01-16",
+          "bps": 75
+        },
+        {
+          "date": "2026-01-19",
+          "bps": 75
+        },
+        {
+          "date": "2026-01-20",
+          "bps": 75
+        },
+        {
+          "date": "2026-01-21",
+          "bps": 74
+        },
+        {
+          "date": "2026-01-22",
+          "bps": 73
+        },
+        {
+          "date": "2026-01-23",
+          "bps": 73
+        },
+        {
+          "date": "2026-01-26",
+          "bps": 74
+        },
+        {
+          "date": "2026-01-27",
+          "bps": 73
+        },
+        {
+          "date": "2026-01-28",
+          "bps": 73
+        },
+        {
+          "date": "2026-01-29",
+          "bps": 74
+        },
+        {
+          "date": "2026-01-30",
+          "bps": 74
+        },
+        {
+          "date": "2026-01-31",
+          "bps": 75
+        },
+        {
+          "date": "2026-02-02",
+          "bps": 74
+        },
+        {
+          "date": "2026-02-03",
+          "bps": 74
+        },
+        {
+          "date": "2026-02-04",
+          "bps": 75
+        },
+        {
+          "date": "2026-02-05",
+          "bps": 76
+        },
+        {
+          "date": "2026-02-06",
+          "bps": 76
+        },
+        {
+          "date": "2026-02-09",
+          "bps": 76
+        },
+        {
+          "date": "2026-02-10",
+          "bps": 77
+        },
+        {
+          "date": "2026-02-11",
+          "bps": 77
+        },
+        {
+          "date": "2026-02-12",
+          "bps": 78
+        },
+        {
+          "date": "2026-02-13",
+          "bps": 79
+        },
+        {
+          "date": "2026-02-16",
+          "bps": 79
+        },
+        {
+          "date": "2026-02-17",
+          "bps": 80
+        },
+        {
+          "date": "2026-02-18",
+          "bps": 78
+        },
+        {
+          "date": "2026-02-19",
+          "bps": 79
+        },
+        {
+          "date": "2026-02-20",
+          "bps": 78
+        },
+        {
+          "date": "2026-02-23",
+          "bps": 80
+        },
+        {
+          "date": "2026-02-24",
+          "bps": 81
+        },
+        {
+          "date": "2026-02-25",
+          "bps": 80
+        },
+        {
+          "date": "2026-02-26",
+          "bps": 82
+        },
+        {
+          "date": "2026-02-27",
+          "bps": 85
+        },
+        {
+          "date": "2026-02-28",
+          "bps": 86
+        },
+        {
+          "date": "2026-03-02",
+          "bps": 85
+        },
+        {
+          "date": "2026-03-03",
+          "bps": 84
+        },
+        {
+          "date": "2026-03-04",
+          "bps": 82
+        },
+        {
+          "date": "2026-03-05",
+          "bps": 82
+        },
+        {
+          "date": "2026-03-06",
+          "bps": 84
+        },
+        {
+          "date": "2026-03-09",
+          "bps": 85
+        },
+        {
+          "date": "2026-03-10",
+          "bps": 84
+        },
+        {
+          "date": "2026-03-11",
+          "bps": 88
+        },
+        {
+          "date": "2026-03-12",
+          "bps": 91
+        },
+        {
+          "date": "2026-03-13",
+          "bps": 93
+        },
+        {
+          "date": "2026-03-16",
+          "bps": 94
+        },
+        {
+          "date": "2026-03-17",
+          "bps": 92
+        },
+        {
+          "date": "2026-03-18",
+          "bps": 91
+        },
+        {
+          "date": "2026-03-19",
+          "bps": 90
+        },
+        {
+          "date": "2026-03-20",
+          "bps": 88
+        },
+        {
+          "date": "2026-03-23",
+          "bps": 88
+        },
+        {
+          "date": "2026-03-24",
+          "bps": 87
+        },
+        {
+          "date": "2026-03-25",
+          "bps": 87
+        },
+        {
+          "date": "2026-03-26",
+          "bps": 88
+        },
+        {
+          "date": "2026-03-27",
+          "bps": 91
+        },
+        {
+          "date": "2026-03-30",
+          "bps": 93
+        },
+        {
+          "date": "2026-03-31",
+          "bps": 90
+        },
+        {
+          "date": "2026-04-01",
+          "bps": 87
+        },
+        {
+          "date": "2026-04-02",
+          "bps": 86
+        },
+        {
+          "date": "2026-04-03",
+          "bps": 86
+        },
+        {
+          "date": "2026-04-06",
+          "bps": 85
+        },
+        {
+          "date": "2026-04-07",
+          "bps": 86
+        },
+        {
+          "date": "2026-04-08",
+          "bps": 83
+        },
+        {
+          "date": "2026-04-09",
+          "bps": 83
+        },
+        {
+          "date": "2026-04-10",
+          "bps": 82
+        },
+        {
+          "date": "2026-04-13",
+          "bps": 82
+        },
+        {
+          "date": "2026-04-14",
+          "bps": 81
+        },
+        {
+          "date": "2026-04-15",
+          "bps": 80
+        },
+        {
+          "date": "2026-04-16",
+          "bps": 81
+        },
+        {
+          "date": "2026-04-17",
+          "bps": 80
+        },
+        {
+          "date": "2026-04-20",
+          "bps": 81
+        },
+        {
+          "date": "2026-04-21",
+          "bps": 80
+        },
+        {
+          "date": "2026-04-22",
+          "bps": 79
+        },
+        {
+          "date": "2026-04-23",
+          "bps": 80
+        },
+        {
+          "date": "2026-04-24",
+          "bps": 80
+        },
+        {
+          "date": "2026-04-27",
+          "bps": 81
+        },
+        {
+          "date": "2026-04-28",
+          "bps": 81
+        },
+        {
+          "date": "2026-04-29",
+          "bps": 81
+        },
+        {
+          "date": "2026-04-30",
+          "bps": 81
+        },
+        {
+          "date": "2026-05-01",
+          "bps": 81
+        },
+        {
+          "date": "2026-05-04",
+          "bps": 80
+        },
+        {
+          "date": "2026-05-05",
+          "bps": 79
+        },
+        {
+          "date": "2026-05-06",
+          "bps": 78
+        },
+        {
+          "date": "2026-05-07",
+          "bps": 79
+        },
+        {
+          "date": "2026-05-08",
+          "bps": 79
+        },
+        {
+          "date": "2026-05-11",
+          "bps": 78
+        },
+        {
+          "date": "2026-05-12",
+          "bps": 77
+        },
+        {
+          "date": "2026-05-13",
+          "bps": 76
+        },
+        {
+          "date": "2026-05-14",
+          "bps": 76
+        },
+        {
+          "date": "2026-05-15",
+          "bps": 75
+        },
+        {
+          "date": "2026-05-18",
+          "bps": 75
+        },
+        {
+          "date": "2026-05-19",
+          "bps": 76
+        },
+        {
+          "date": "2026-05-20",
+          "bps": 75
+        },
+        {
+          "date": "2026-05-21",
+          "bps": 75
+        },
+        {
+          "date": "2026-05-22",
+          "bps": 74
+        },
+        {
+          "date": "2026-05-25",
+          "bps": 74
+        },
+        {
+          "date": "2026-05-26",
+          "bps": 74
+        },
+        {
+          "date": "2026-05-27",
+          "bps": 74
+        },
+        {
+          "date": "2026-05-28",
+          "bps": 73
+        },
+        {
+          "date": "2026-05-29",
+          "bps": 73
+        },
+        {
+          "date": "2026-05-31",
+          "bps": 74
+        },
+        {
+          "date": "2026-06-01",
+          "bps": 73
+        },
+        {
+          "date": "2026-06-02",
+          "bps": 74
+        },
+        {
+          "date": "2026-06-03",
+          "bps": 74
+        },
+        {
+          "date": "2026-06-04",
+          "bps": 74
+        },
+        {
+          "date": "2026-06-05",
+          "bps": 74
+        },
+        {
+          "date": "2026-06-08",
+          "bps": 75
+        },
+        {
+          "date": "2026-06-09",
+          "bps": 75
+        },
+        {
+          "date": "2026-06-10",
+          "bps": 75
+        },
+        {
+          "date": "2026-06-11",
+          "bps": 75
+        },
+        {
+          "date": "2026-06-12",
+          "bps": 74
+        },
+        {
+          "date": "2026-06-15",
+          "bps": 73
+        },
+        {
+          "date": "2026-06-16",
+          "bps": 75
+        },
+        {
+          "date": "2026-06-17",
+          "bps": 74
+        },
+        {
+          "date": "2026-06-18",
+          "bps": 74
+        },
+        {
+          "date": "2026-06-19",
+          "bps": 74
+        },
+        {
+          "date": "2026-06-22",
+          "bps": 74
+        },
+        {
+          "date": "2026-06-23",
+          "bps": 74
+        },
+        {
+          "date": "2026-06-24",
+          "bps": 75
+        },
+        {
+          "date": "2026-06-25",
+          "bps": 76
+        },
+        {
+          "date": "2026-06-26",
+          "bps": 77
+        },
+        {
+          "date": "2026-06-29",
+          "bps": 76
+        },
+        {
+          "date": "2026-06-30",
+          "bps": 76
+        },
+        {
+          "date": "2026-07-01",
+          "bps": 76
+        },
+        {
+          "date": "2026-07-02",
+          "bps": 75
+        },
+        {
+          "date": "2026-07-03",
+          "bps": 75
+        },
+        {
+          "date": "2026-07-06",
+          "bps": 75
+        },
+        {
+          "date": "2026-07-07",
+          "bps": 76
+        },
+        {
+          "date": "2026-07-08",
+          "bps": 76
+        },
+        {
+          "date": "2026-07-09",
+          "bps": 76
+        },
+        {
+          "date": "2026-07-10",
+          "bps": 77
+        },
+        {
+          "date": "2026-07-13",
+          "bps": 78
+        },
+        {
+          "date": "2026-07-14",
+          "bps": 79
+        },
+        {
+          "date": "2026-07-15",
+          "bps": 79
+        },
+        {
+          "date": "2026-07-16",
+          "bps": 78
+        },
+        {
+          "date": "2026-07-17",
+          "bps": 79
+        },
+        {
+          "date": "2026-07-20",
+          "bps": 78
+        },
+        {
+          "date": "2026-07-21",
+          "bps": 78
+        },
+        {
+          "date": "2026-07-22",
+          "bps": 78
+        },
+        {
+          "date": "2026-07-23",
+          "bps": 79
+        },
+        {
+          "date": "2026-07-24",
+          "bps": 80
+        },
+        {
+          "date": "2026-07-27",
+          "bps": 81
+        },
+        {
+          "date": "2026-07-28",
+          "bps": 81
+        },
+        {
+          "date": "2026-07-29",
+          "bps": 81
+        },
+        {
+          "date": "2026-07-30",
+          "bps": 80
+        },
+        {
+          "date": "2026-07-31",
+          "bps": 79
+        },
+        {
+          "date": "2026-08-03",
+          "bps": 78
+        },
+        {
+          "date": "2026-08-04",
+          "bps": 78
+        },
+        {
+          "date": "2026-08-05",
+          "bps": 78
+        },
+        {
+          "date": "2026-08-06",
+          "bps": 78
+        },
+        {
+          "date": "2026-08-07",
+          "bps": 78
+        },
+        {
+          "date": "2026-08-10",
+          "bps": 78
+        },
+        {
+          "date": "2026-08-11",
+          "bps": 79
+        },
+        {
+          "date": "2026-08-12",
+          "bps": 79
+        },
+        {
+          "date": "2026-08-13",
+          "bps": 79
+        },
+        {
+          "date": "2026-08-14",
+          "bps": 80
+        },
+        {
+          "date": "2026-08-17",
+          "bps": 81
+        },
+        {
+          "date": "2026-08-18",
+          "bps": 82
+        },
+        {
+          "date": "2026-08-19",
+          "bps": 81
+        },
+        {
+          "date": "2026-08-20",
+          "bps": 82
+        },
+        {
+          "date": "2026-08-21",
+          "bps": 81
+        },
+        {
+          "date": "2026-08-24",
+          "bps": 81
+        },
+        {
+          "date": "2026-08-25",
+          "bps": 81
+        },
+        {
+          "date": "2026-08-26",
+          "bps": 80
+        },
+        {
+          "date": "2026-08-27",
+          "bps": 79
+        },
+        {
+          "date": "2026-08-28",
+          "bps": 79
+        },
+        {
+          "date": "2026-08-31",
+          "bps": 80
+        },
+        {
+          "date": "2026-09-01",
+          "bps": 81
+        },
+        {
+          "date": "2026-09-02",
+          "bps": 81
+        },
+        {
+          "date": "2026-09-03",
+          "bps": 81
+        },
+        {
+          "date": "2026-09-04",
+          "bps": 81
+        },
+        {
+          "date": "2026-09-07",
+          "bps": 81
+        },
+        {
+          "date": "2026-09-08",
+          "bps": 81
+        },
+        {
+          "date": "2026-09-09",
+          "bps": 81
+        },
+        {
+          "date": "2026-09-10",
+          "bps": 80
+        }
+      ],
+      "hy": [
+        {
+          "date": "2025-09-15",
+          "bps": 275
+        },
+        {
+          "date": "2025-09-16",
+          "bps": 279
+        },
+        {
+          "date": "2025-09-17",
+          "bps": 279
+        },
+        {
+          "date": "2025-09-18",
+          "bps": 271
+        },
+        {
+          "date": "2025-09-19",
+          "bps": 272
+        },
+        {
+          "date": "2025-09-22",
+          "bps": 269
+        },
+        {
+          "date": "2025-09-23",
+          "bps": 271
+        },
+        {
+          "date": "2025-09-24",
+          "bps": 270
+        },
+        {
+          "date": "2025-09-25",
+          "bps": 276
+        },
+        {
+          "date": "2025-09-26",
+          "bps": 275
+        },
+        {
+          "date": "2025-09-29",
+          "bps": 274
+        },
+        {
+          "date": "2025-09-30",
+          "bps": 280
+        },
+        {
+          "date": "2025-10-01",
+          "bps": 281
+        },
+        {
+          "date": "2025-10-02",
+          "bps": 281
+        },
+        {
+          "date": "2025-10-03",
+          "bps": 280
+        },
+        {
+          "date": "2025-10-06",
+          "bps": 276
+        },
+        {
+          "date": "2025-10-07",
+          "bps": 282
+        },
+        {
+          "date": "2025-10-08",
+          "bps": 284
+        },
+        {
+          "date": "2025-10-09",
+          "bps": 295
+        },
+        {
+          "date": "2025-10-10",
+          "bps": 318
+        },
+        {
+          "date": "2025-10-13",
+          "bps": 318
+        },
+        {
+          "date": "2025-10-14",
+          "bps": 311
+        },
+        {
+          "date": "2025-10-15",
+          "bps": 295
+        },
+        {
+          "date": "2025-10-16",
+          "bps": 304
+        },
+        {
+          "date": "2025-10-17",
+          "bps": 304
+        },
+        {
+          "date": "2025-10-20",
+          "bps": 299
+        },
+        {
+          "date": "2025-10-21",
+          "bps": 297
+        },
+        {
+          "date": "2025-10-22",
+          "bps": 301
+        },
+        {
+          "date": "2025-10-23",
+          "bps": 296
+        },
+        {
+          "date": "2025-10-24",
+          "bps": 288
+        },
+        {
+          "date": "2025-10-27",
+          "bps": 280
+        },
+        {
+          "date": "2025-10-28",
+          "bps": 282
+        },
+        {
+          "date": "2025-10-29",
+          "bps": 276
+        },
+        {
+          "date": "2025-10-30",
+          "bps": 285
+        },
+        {
+          "date": "2025-10-31",
+          "bps": 294
+        },
+        {
+          "date": "2025-11-03",
+          "bps": 304
+        },
+        {
+          "date": "2025-11-04",
+          "bps": 313
+        },
+        {
+          "date": "2025-11-05",
+          "bps": 305
+        },
+        {
+          "date": "2025-11-06",
+          "bps": 313
+        },
+        {
+          "date": "2025-11-07",
+          "bps": 315
+        },
+        {
+          "date": "2025-11-10",
+          "bps": 302
+        },
+        {
+          "date": "2025-11-11",
+          "bps": 302
+        },
+        {
+          "date": "2025-11-12",
+          "bps": 302
+        },
+        {
+          "date": "2025-11-13",
+          "bps": 309
+        },
+        {
+          "date": "2025-11-14",
+          "bps": 307
+        },
+        {
+          "date": "2025-11-17",
+          "bps": 313
+        },
+        {
+          "date": "2025-11-18",
+          "bps": 320
+        },
+        {
+          "date": "2025-11-19",
+          "bps": 317
+        },
+        {
+          "date": "2025-11-20",
+          "bps": 317
+        },
+        {
+          "date": "2025-11-21",
+          "bps": 319
+        },
+        {
+          "date": "2025-11-24",
+          "bps": 315
+        },
+        {
+          "date": "2025-11-25",
+          "bps": 310
+        },
+        {
+          "date": "2025-11-26",
+          "bps": 300
+        },
+        {
+          "date": "2025-11-27",
+          "bps": 300
+        },
+        {
+          "date": "2025-11-28",
+          "bps": 295
+        },
+        {
+          "date": "2025-11-30",
+          "bps": 292
+        },
+        {
+          "date": "2025-12-01",
+          "bps": 294
+        },
+        {
+          "date": "2025-12-02",
+          "bps": 292
+        },
+        {
+          "date": "2025-12-03",
+          "bps": 289
+        },
+        {
+          "date": "2025-12-04",
+          "bps": 288
+        },
+        {
+          "date": "2025-12-05",
+          "bps": 285
+        },
+        {
+          "date": "2025-12-08",
+          "bps": 289
+        },
+        {
+          "date": "2025-12-09",
+          "bps": 289
+        },
+        {
+          "date": "2025-12-10",
+          "bps": 291
+        },
+        {
+          "date": "2025-12-11",
+          "bps": 288
+        },
+        {
+          "date": "2025-12-12",
+          "bps": 291
+        },
+        {
+          "date": "2025-12-15",
+          "bps": 291
+        },
+        {
+          "date": "2025-12-16",
+          "bps": 298
+        },
+        {
+          "date": "2025-12-17",
+          "bps": 299
+        },
+        {
+          "date": "2025-12-18",
+          "bps": 295
+        },
+        {
+          "date": "2025-12-19",
+          "bps": 290
+        },
+        {
+          "date": "2025-12-22",
+          "bps": 288
+        },
+        {
+          "date": "2025-12-23",
+          "bps": 283
+        },
+        {
+          "date": "2025-12-24",
+          "bps": 284
+        },
+        {
+          "date": "2025-12-26",
+          "bps": 286
+        },
+        {
+          "date": "2025-12-29",
+          "bps": 287
+        },
+        {
+          "date": "2025-12-30",
+          "bps": 284
+        },
+        {
+          "date": "2025-12-31",
+          "bps": 281
+        },
+        {
+          "date": "2026-01-02",
+          "bps": 283
+        },
+        {
+          "date": "2026-01-05",
+          "bps": 281
+        },
+        {
+          "date": "2026-01-06",
+          "bps": 279
+        },
+        {
+          "date": "2026-01-07",
+          "bps": 279
+        },
+        {
+          "date": "2026-01-08",
+          "bps": 276
+        },
+        {
+          "date": "2026-01-09",
+          "bps": 274
+        },
+        {
+          "date": "2026-01-12",
+          "bps": 274
+        },
+        {
+          "date": "2026-01-13",
+          "bps": 275
+        },
+        {
+          "date": "2026-01-14",
+          "bps": 276
+        },
+        {
+          "date": "2026-01-15",
+          "bps": 271
+        },
+        {
+          "date": "2026-01-16",
+          "bps": 265
+        },
+        {
+          "date": "2026-01-19",
+          "bps": 265
+        },
+        {
+          "date": "2026-01-20",
+          "bps": 273
+        },
+        {
+          "date": "2026-01-21",
+          "bps": 269
+        },
+        {
+          "date": "2026-01-22",
+          "bps": 264
+        },
+        {
+          "date": "2026-01-23",
+          "bps": 268
+        },
+        {
+          "date": "2026-01-26",
+          "bps": 269
+        },
+        {
+          "date": "2026-01-27",
+          "bps": 271
+        },
+        {
+          "date": "2026-01-28",
+          "bps": 272
+        },
+        {
+          "date": "2026-01-29",
+          "bps": 277
+        },
+        {
+          "date": "2026-01-30",
+          "bps": 280
+        },
+        {
+          "date": "2026-01-31",
+          "bps": 288
+        },
+        {
+          "date": "2026-02-02",
+          "bps": 281
+        },
+        {
+          "date": "2026-02-03",
+          "bps": 285
+        },
+        {
+          "date": "2026-02-04",
+          "bps": 286
+        },
+        {
+          "date": "2026-02-05",
+          "bps": 297
+        },
+        {
+          "date": "2026-02-06",
+          "bps": 287
+        },
+        {
+          "date": "2026-02-09",
+          "bps": 284
+        },
+        {
+          "date": "2026-02-10",
+          "bps": 286
+        },
+        {
+          "date": "2026-02-11",
+          "bps": 284
+        },
+        {
+          "date": "2026-02-12",
+          "bps": 292
+        },
+        {
+          "date": "2026-02-13",
+          "bps": 295
+        },
+        {
+          "date": "2026-02-16",
+          "bps": 294
+        },
+        {
+          "date": "2026-02-17",
+          "bps": 294
+        },
+        {
+          "date": "2026-02-18",
+          "bps": 286
+        },
+        {
+          "date": "2026-02-19",
+          "bps": 288
+        },
+        {
+          "date": "2026-02-20",
+          "bps": 286
+        },
+        {
+          "date": "2026-02-23",
+          "bps": 295
+        },
+        {
+          "date": "2026-02-24",
+          "bps": 297
+        },
+        {
+          "date": "2026-02-25",
+          "bps": 294
+        },
+        {
+          "date": "2026-02-26",
+          "bps": 298
+        },
+        {
+          "date": "2026-02-27",
+          "bps": 310
+        },
+        {
+          "date": "2026-02-28",
+          "bps": 312
+        },
+        {
+          "date": "2026-03-02",
+          "bps": 303
+        },
+        {
+          "date": "2026-03-03",
+          "bps": 308
+        },
+        {
+          "date": "2026-03-04",
+          "bps": 297
+        },
+        {
+          "date": "2026-03-05",
+          "bps": 300
+        },
+        {
+          "date": "2026-03-06",
+          "bps": 313
+        },
+        {
+          "date": "2026-03-09",
+          "bps": 319
+        },
+        {
+          "date": "2026-03-10",
+          "bps": 306
+        },
+        {
+          "date": "2026-03-11",
+          "bps": 309
+        },
+        {
+          "date": "2026-03-12",
+          "bps": 317
+        },
+        {
+          "date": "2026-03-13",
+          "bps": 328
+        },
+        {
+          "date": "2026-03-16",
+          "bps": 327
+        },
+        {
+          "date": "2026-03-17",
+          "bps": 322
+        },
+        {
+          "date": "2026-03-18",
+          "bps": 320
+        },
+        {
+          "date": "2026-03-19",
+          "bps": 327
+        },
+        {
+          "date": "2026-03-20",
+          "bps": 324
+        },
+        {
+          "date": "2026-03-23",
+          "bps": 319
+        },
+        {
+          "date": "2026-03-24",
+          "bps": 319
+        },
+        {
+          "date": "2026-03-25",
+          "bps": 317
+        },
+        {
+          "date": "2026-03-26",
+          "bps": 321
+        },
+        {
+          "date": "2026-03-27",
+          "bps": 342
+        },
+        {
+          "date": "2026-03-30",
+          "bps": 346
+        },
+        {
+          "date": "2026-03-31",
+          "bps": 328
+        },
+        {
+          "date": "2026-04-01",
+          "bps": 316
+        },
+        {
+          "date": "2026-04-02",
+          "bps": 317
+        },
+        {
+          "date": "2026-04-03",
+          "bps": 313
+        },
+        {
+          "date": "2026-04-06",
+          "bps": 305
+        },
+        {
+          "date": "2026-04-07",
+          "bps": 312
+        },
+        {
+          "date": "2026-04-08",
+          "bps": 294
+        },
+        {
+          "date": "2026-04-09",
+          "bps": 290
+        },
+        {
+          "date": "2026-04-10",
+          "bps": 294
+        },
+        {
+          "date": "2026-04-13",
+          "bps": 295
+        },
+        {
+          "date": "2026-04-14",
+          "bps": 284
+        },
+        {
+          "date": "2026-04-15",
+          "bps": 285
+        },
+        {
+          "date": "2026-04-16",
+          "bps": 286
+        },
+        {
+          "date": "2026-04-17",
+          "bps": 283
+        },
+        {
+          "date": "2026-04-20",
+          "bps": 287
+        },
+        {
+          "date": "2026-04-21",
+          "bps": 285
+        },
+        {
+          "date": "2026-04-22",
+          "bps": 284
+        },
+        {
+          "date": "2026-04-23",
+          "bps": 286
+        },
+        {
+          "date": "2026-04-24",
+          "bps": 286
+        },
+        {
+          "date": "2026-04-27",
+          "bps": 284
+        },
+        {
+          "date": "2026-04-28",
+          "bps": 285
+        },
+        {
+          "date": "2026-04-29",
+          "bps": 282
+        },
+        {
+          "date": "2026-04-30",
+          "bps": 283
+        },
+        {
+          "date": "2026-05-01",
+          "bps": 277
+        },
+        {
+          "date": "2026-05-04",
+          "bps": 278
+        },
+        {
+          "date": "2026-05-05",
+          "bps": 277
+        },
+        {
+          "date": "2026-05-06",
+          "bps": 275
+        },
+        {
+          "date": "2026-05-07",
+          "bps": 279
+        },
+        {
+          "date": "2026-05-08",
+          "bps": 281
+        },
+        {
+          "date": "2026-05-11",
+          "bps": 279
+        },
+        {
+          "date": "2026-05-12",
+          "bps": 282
+        },
+        {
+          "date": "2026-05-13",
+          "bps": 282
+        },
+        {
+          "date": "2026-05-14",
+          "bps": 276
+        },
+        {
+          "date": "2026-05-15",
+          "bps": 280
+        },
+        {
+          "date": "2026-05-18",
+          "bps": 283
+        },
+        {
+          "date": "2026-05-19",
+          "bps": 286
+        },
+        {
+          "date": "2026-05-20",
+          "bps": 280
+        },
+        {
+          "date": "2026-05-21",
+          "bps": 278
+        },
+        {
+          "date": "2026-05-22",
+          "bps": 274
+        },
+        {
+          "date": "2026-05-25",
+          "bps": 274
+        },
+        {
+          "date": "2026-05-26",
+          "bps": 272
+        },
+        {
+          "date": "2026-05-27",
+          "bps": 271
+        },
+        {
+          "date": "2026-05-28",
+          "bps": 272
+        },
+        {
+          "date": "2026-05-29",
+          "bps": 272
+        },
+        {
+          "date": "2026-05-31",
+          "bps": 274
+        },
+        {
+          "date": "2026-06-01",
+          "bps": 272
+        },
+        {
+          "date": "2026-06-02",
+          "bps": 271
+        },
+        {
+          "date": "2026-06-03",
+          "bps": 275
+        },
+        {
+          "date": "2026-06-04",
+          "bps": 274
+        },
+        {
+          "date": "2026-06-05",
+          "bps": 276
+        },
+        {
+          "date": "2026-06-08",
+          "bps": 275
+        },
+        {
+          "date": "2026-06-09",
+          "bps": 278
+        },
+        {
+          "date": "2026-06-10",
+          "bps": 280
+        },
+        {
+          "date": "2026-06-11",
+          "bps": 278
+        },
+        {
+          "date": "2026-06-12",
+          "bps": 271
+        },
+        {
+          "date": "2026-06-15",
+          "bps": 266
+        },
+        {
+          "date": "2026-06-16",
+          "bps": 271
+        },
+        {
+          "date": "2026-06-17",
+          "bps": 263
+        },
+        {
+          "date": "2026-06-18",
+          "bps": 266
+        },
+        {
+          "date": "2026-06-19",
+          "bps": 266
+        },
+        {
+          "date": "2026-06-22",
+          "bps": 265
+        },
+        {
+          "date": "2026-06-23",
+          "bps": 271
+        },
+        {
+          "date": "2026-06-24",
+          "bps": 276
+        },
+        {
+          "date": "2026-06-25",
+          "bps": 278
+        },
+        {
+          "date": "2026-06-26",
+          "bps": 283
+        },
+        {
+          "date": "2026-06-29",
+          "bps": 280
+        },
+        {
+          "date": "2026-06-30",
+          "bps": 275
+        },
+        {
+          "date": "2026-07-01",
+          "bps": 274
+        },
+        {
+          "date": "2026-07-02",
+          "bps": 275
+        },
+        {
+          "date": "2026-07-03",
+          "bps": 274
+        },
+        {
+          "date": "2026-07-06",
+          "bps": 272
+        },
+        {
+          "date": "2026-07-07",
+          "bps": 267
+        },
+        {
+          "date": "2026-07-08",
+          "bps": 270
+        },
+        {
+          "date": "2026-07-09",
+          "bps": 270
+        },
+        {
+          "date": "2026-07-10",
+          "bps": 269
+        },
+        {
+          "date": "2026-07-13",
+          "bps": 269
+        },
+        {
+          "date": "2026-07-14",
+          "bps": 272
+        },
+        {
+          "date": "2026-07-15",
+          "bps": 271
+        },
+        {
+          "date": "2026-07-16",
+          "bps": 271
+        },
+        {
+          "date": "2026-07-17",
+          "bps": 273
+        },
+        {
+          "date": "2026-07-20",
+          "bps": 269
+        },
+        {
+          "date": "2026-07-21",
+          "bps": 269
+        },
+        {
+          "date": "2026-07-22",
+          "bps": 268
+        },
+        {
+          "date": "2026-07-23",
+          "bps": 277
+        },
+        {
+          "date": "2026-07-24",
+          "bps": 279
+        },
+        {
+          "date": "2026-07-27",
+          "bps": 281
+        },
+        {
+          "date": "2026-07-28",
+          "bps": 284
+        },
+        {
+          "date": "2026-07-29",
+          "bps": 287
+        },
+        {
+          "date": "2026-07-30",
+          "bps": 284
+        },
+        {
+          "date": "2026-07-31",
+          "bps": 285
+        },
+        {
+          "date": "2026-08-03",
+          "bps": 278
+        },
+        {
+          "date": "2026-08-04",
+          "bps": 273
+        },
+        {
+          "date": "2026-08-05",
+          "bps": 275
+        },
+        {
+          "date": "2026-08-06",
+          "bps": 271
+        },
+        {
+          "date": "2026-08-07",
+          "bps": 270
+        },
+        {
+          "date": "2026-08-10",
+          "bps": 270
+        },
+        {
+          "date": "2026-08-11",
+          "bps": 272
+        },
+        {
+          "date": "2026-08-12",
+          "bps": 271
+        },
+        {
+          "date": "2026-08-13",
+          "bps": 271
+        },
+        {
+          "date": "2026-08-14",
+          "bps": 267
+        },
+        {
+          "date": "2026-08-17",
+          "bps": 270
+        },
+        {
+          "date": "2026-08-18",
+          "bps": 275
+        },
+        {
+          "date": "2026-08-19",
+          "bps": 273
+        },
+        {
+          "date": "2026-08-20",
+          "bps": 275
+        },
+        {
+          "date": "2026-08-21",
+          "bps": 270
+        },
+        {
+          "date": "2026-08-24",
+          "bps": 269
+        },
+        {
+          "date": "2026-08-25",
+          "bps": 270
+        },
+        {
+          "date": "2026-08-26",
+          "bps": 267
+        },
+        {
+          "date": "2026-08-27",
+          "bps": 263
+        },
+        {
+          "date": "2026-08-28",
+          "bps": 260
+        },
+        {
+          "date": "2026-08-31",
+          "bps": 263
+        },
+        {
+          "date": "2026-09-01",
+          "bps": 265
+        },
+        {
+          "date": "2026-09-02",
+          "bps": 266
+        },
+        {
+          "date": "2026-09-03",
+          "bps": 265
+        },
+        {
+          "date": "2026-09-04",
+          "bps": 268
+        },
+        {
+          "date": "2026-09-07",
+          "bps": 268
+        },
+        {
+          "date": "2026-09-08",
+          "bps": 267
+        },
+        {
+          "date": "2026-09-09",
+          "bps": 271
+        },
+        {
+          "date": "2026-09-10",
+          "bps": 270
+        }
+      ]
+    },
+    "sources": {
+      "ccc": {
+        "seriesId": "BAMLH0A3HYC",
+        "status": "fresh",
+        "fetchedAt": "2026-09-14T10:45:48.937Z",
+        "observationDate": "2026-09-10"
+      },
+      "ig": {
+        "seriesId": "BAMLC0A0CM",
+        "status": "fresh",
+        "fetchedAt": "2026-09-14T10:45:48.937Z",
+        "observationDate": "2026-09-10"
+      },
+      "hy": {
+        "seriesId": "BAMLH0A0HYM2",
+        "status": "fresh",
+        "fetchedAt": "2026-09-14T10:45:48.937Z",
+        "observationDate": "2026-09-10"
+      }
     }
   }
 }
