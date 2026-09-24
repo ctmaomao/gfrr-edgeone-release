@@ -1,12 +1,12 @@
 {
   "schemaVersion": "gdelt-news-cache-p37",
   "module": "gdelt-news-cache",
-  "generatedAt": "2026-09-23T17:25:31.162Z",
+  "generatedAt": "2026-09-24T21:44:26.617Z",
   "sourceKey": "gdelt_news_cache",
   "cacheScope": "odp_oil_news_event_watch",
   "status": "error",
   "sourceStatus": "error",
-  "requestMode": "error_cooldown_cache_hit",
+  "requestMode": "rate_limited_last_usable_cache_preserved",
   "source": "GDELT DOC public search",
   "cachePolicy": {
     "ttlMinutes": 1440,
@@ -50,48 +50,30 @@
     "minIntervalMs": 8000,
     "maxRetries": 1,
     "retryAfterCapSeconds": 15,
-    "elapsedMs": 10994,
+    "elapsedMs": 10951,
     "errorCode": "rate_limited"
   },
   "availability": {
     "contractVersion": "gdelt-doc-availability-v1",
     "historyLimit": 64,
-    "latestAttemptAt": "2026-09-23T17:25:20.166Z",
+    "latestAttemptAt": "2026-09-24T21:44:15.665Z",
     "lastLiveSuccessAt": "2026-09-08T16:49:16.510Z",
     "latestOutcome": "rate_limited",
     "windows": {
       "days7": {
-        "attemptCount": 7,
+        "attemptCount": 8,
         "successCount": 0,
-        "failureCount": 7,
+        "failureCount": 8,
         "successRatePct": 0
       },
       "days30": {
-        "attemptCount": 48,
+        "attemptCount": 50,
         "successCount": 1,
-        "failureCount": 47,
-        "successRatePct": 2.1
+        "failureCount": 49,
+        "successRatePct": 2
       }
     },
     "history": [
-      {
-        "attemptedAt": "2026-08-14T05:17:46.189Z",
-        "outcome": "timeout",
-        "attempts": 2,
-        "retryCount": 1,
-        "status": null,
-        "errorCode": "network_error",
-        "elapsedMs": 36512
-      },
-      {
-        "attemptedAt": "2026-08-14T10:35:26.855Z",
-        "outcome": "success",
-        "attempts": 1,
-        "retryCount": 0,
-        "status": 200,
-        "errorCode": null,
-        "elapsedMs": 16128
-      },
       {
         "attemptedAt": "2026-08-15T13:15:29.368Z",
         "outcome": "network_error",
@@ -649,11 +631,29 @@
         "status": 429,
         "errorCode": "rate_limited",
         "elapsedMs": 10994
+      },
+      {
+        "attemptedAt": "2026-09-24T17:30:27.041Z",
+        "outcome": "network_error",
+        "attempts": 2,
+        "retryCount": 1,
+        "status": null,
+        "errorCode": "network_error",
+        "elapsedMs": 28405
+      },
+      {
+        "attemptedAt": "2026-09-24T21:44:15.665Z",
+        "outcome": "rate_limited",
+        "attempts": 1,
+        "retryCount": 0,
+        "status": 429,
+        "errorCode": "rate_limited",
+        "elapsedMs": 10951
       }
     ]
   },
   "lastFetchFailure": {
-    "at": "2026-09-23T17:25:20.166Z",
+    "at": "2026-09-24T21:44:15.665Z",
     "errorClass": "rate_limited",
     "cooldownHours": 24
   },
