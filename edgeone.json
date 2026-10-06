@@ -5,7 +5,7 @@
       "headers": [
         {
           "key": "Content-Security-Policy-Report-Only",
-          "value": "default-src 'none'; script-src 'self' 'sha256-+nK5soF8U/G1gOhW8zODy7WArqSvBFJvVrUE+QGW6Xs='; script-src-attr 'none'; style-src-elem 'self' 'sha256-5GrqpCrzOZJF+k5KHsDY8u7dJSw1eXG6uB+pfMqvkJM=' https://fonts.googleapis.com; style-src-attr 'unsafe-inline'; font-src https://fonts.gstatic.com; connect-src 'self'; img-src 'self' data:; base-uri 'none'; form-action 'none'; object-src 'none'"
+          "value": "default-src 'none'; script-src 'self' 'sha256-fzUHqAWByQBG0+/8EETvvfl5H4DYWCA1q5jvD6tk2xw='; script-src-attr 'none'; style-src-elem 'self' 'sha256-5GrqpCrzOZJF+k5KHsDY8u7dJSw1eXG6uB+pfMqvkJM=' https://fonts.googleapis.com; style-src-attr 'unsafe-inline'; font-src https://fonts.gstatic.com; connect-src 'self'; img-src 'self' data:; base-uri 'none'; form-action 'none'; object-src 'none'"
         }
       ]
     }
