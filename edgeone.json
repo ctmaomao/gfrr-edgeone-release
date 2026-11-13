@@ -5,7 +5,7 @@
       "headers": [
         {
           "key": "Content-Security-Policy-Report-Only",
-          "value": "default-src 'none'; script-src 'self' 'sha256-/D/TSpYgVIz7paGgiNEfzwPgPzUdQ6+NvRcj1GV/7D8=' 'sha256-E1jaIXUgfMhULydFpAMgPh2q3Y8achkPcVIm1SPg6PU='; script-src-attr 'none'; style-src-elem 'self' 'sha256-FWi4X5CDooue82Akh0OymM5lECLYSpYqh4loOTIfvOo=' 'sha256-zvkFaivv4dzcLoVi5Vd6/d2NYPJn0hzH384OZAxFsPQ=' https://fonts.googleapis.com; style-src-attr 'unsafe-inline'; font-src https://fonts.gstatic.com; connect-src 'self'; img-src 'self' data:; base-uri 'none'; form-action 'none'; object-src 'none'"
+          "value": "default-src 'none'; script-src 'self' 'sha256-+nfyM0ejpkQP0GxI4P7zSEKS2hVaoqdmMV2loOSEAvw=' 'sha256-E1jaIXUgfMhULydFpAMgPh2q3Y8achkPcVIm1SPg6PU='; script-src-attr 'none'; style-src-elem 'self' 'sha256-FWi4X5CDooue82Akh0OymM5lECLYSpYqh4loOTIfvOo=' 'sha256-zvkFaivv4dzcLoVi5Vd6/d2NYPJn0hzH384OZAxFsPQ=' https://fonts.googleapis.com; style-src-attr 'unsafe-inline'; font-src https://fonts.gstatic.com; connect-src 'self'; img-src 'self' data:; base-uri 'none'; form-action 'none'; object-src 'none'"
         }
       ]
     }
